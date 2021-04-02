@@ -40,7 +40,7 @@
 
 ## Student Help
 
-* [Registration / SignUp](student-help/registration-sign-up/README.md)
+* [Registration / Sign Up](student-help/registration-sign-up/README.md)
   * [Can't find my college in the list](student-help/registration-sign-up/cannot-find-college-name.md)
   * [Email ID entered already exists](student-help/registration-sign-up/email-id-already-exists.md)
   * [Roll Number entered already exists](student-help/registration-sign-up/roll-number-exists.md)
