@@ -1,4 +1,4 @@
-# How to get my profile verified?
+# How to verify my profile?
 
 ### **If your college placement office \(or training and placement office or career development office or college administration\) USES Superset for Placements -** 
 
