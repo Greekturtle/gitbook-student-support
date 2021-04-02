@@ -62,7 +62,7 @@
 * [Job Profile or Job Application](student-help/job-application-issues/README.md)
   * [How to apply for a Job Profile?](student-help/job-application-issues/how-to-apply-for-job-profiles.md)
   * [When will I get my job result?](student-help/job-application-issues/when-will-i-get-my-results.md)
-  * [When will I receive the offer letter?](student-help/job-application-issues/when-will-i-receive-the-offer-letter-1.md)
+  * [When will I receive the offer letter?](student-help/job-application-issues/when-will-i-receive-the-offer-letter.md)
   * [How to accept an offer?](student-help/job-application-issues/how-to-accept-an-offer.md)
   * [Offer acceptance deadline has passed. How can I accept the offer?](student-help/job-application-issues/offer-acceptance-deadline-has-passed.-how-can-i-accept-the-offer.md)
   * [I have been offerred the job but I cannot see the Accept button](student-help/job-application-issues/i-have-been-offerred-the-job-but-i-cannot-see-the-accept-button.md)
