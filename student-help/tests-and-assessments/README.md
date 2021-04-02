@@ -1,4 +1,4 @@
-# Tests and Assessments Related Issues
+# Tests or Assessments
 
 * [My test was not scheduled](my-test-was-not-scheduled.md)
 * [Interview slots not available](interview-slots-not-available.md)
