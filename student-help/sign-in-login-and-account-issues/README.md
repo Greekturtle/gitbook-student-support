@@ -1,4 +1,4 @@
-# Sign In \(Login\) and Account Issues
+# Sign in/Login
 
 Please navigate to the section that your query is related to:
 

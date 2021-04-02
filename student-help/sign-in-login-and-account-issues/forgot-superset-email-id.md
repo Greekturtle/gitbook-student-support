@@ -1,4 +1,4 @@
-# Forgot Superset Email ID
+# Forgot my email ID
 
 If you do not remember your Superset email ID \(the email ID that you use to login to superset\) then please do the following - 
 
