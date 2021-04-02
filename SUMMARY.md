@@ -40,11 +40,11 @@
 
 ## Student Help
 
-* [Registration \(SignUp\)](student-help/registration-sign-up/README.md)
+* [Registration / SignUp](student-help/registration-sign-up/README.md)
   * [Can't find my college in the list](student-help/registration-sign-up/cannot-find-college-name.md)
-  * [Email ID already exist](student-help/registration-sign-up/email-id-already-exists.md)
-  * [Roll Number already exist](student-help/registration-sign-up/roll-number-exists.md)
-* [Sign in/Login](student-help/sign-in-login-and-account-issues/README.md)
+  * [Email ID entered already exists](student-help/registration-sign-up/email-id-already-exists.md)
+  * [Roll Number entered already exists](student-help/registration-sign-up/roll-number-exists.md)
+* [Login / My account on Superset](student-help/sign-in-login-and-account-issues/README.md)
   * [Forgot my email ID](student-help/sign-in-login-and-account-issues/forgot-superset-email-id.md)
   * [Forgot my password](student-help/sign-in-login-and-account-issues/forgot-superset-account-password.md)
 * [Account Issues](student-help/account-issues/README.md)

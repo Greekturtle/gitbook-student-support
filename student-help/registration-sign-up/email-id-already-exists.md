@@ -1,4 +1,4 @@
-# Email ID already exist
+# Email ID entered already exists
 
 While registering if you find that your email ID already exists, that means that there is an existing Superset account with the same email ID. In this case, you will have to login to your account to continue further. To login, please follow these steps - 
 

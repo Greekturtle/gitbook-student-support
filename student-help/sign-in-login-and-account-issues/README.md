@@ -1,4 +1,4 @@
-# Sign in/Login
+# Login / My account on Superset
 
 Please navigate to the section that your query is related to:
 
