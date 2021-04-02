@@ -1,4 +1,4 @@
-# Registration / Sign Up
+# Registration \(SignUp\)
 
 Please navigate to the section that your query is related to:
 

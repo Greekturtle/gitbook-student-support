@@ -40,15 +40,16 @@
 
 ## Student Help
 
-* [Registration / Sign Up](student-help/registration-sign-up/README.md)
-  * [Cannot find college name](student-help/registration-sign-up/cannot-find-college-name.md)
-  * [Email ID already exists](student-help/registration-sign-up/email-id-already-exists.md)
-  * [Roll Number already exists](student-help/registration-sign-up/roll-number-exists.md)
+* [Registration \(SignUp\)](student-help/registration-sign-up/README.md)
+  * [Can't find my college in the list](student-help/registration-sign-up/cannot-find-college-name.md)
+  * [Email ID already exist](student-help/registration-sign-up/email-id-already-exists.md)
+  * [Roll Number already exist](student-help/registration-sign-up/roll-number-exists.md)
 * [Sign In \(Login\) and Account Issues](student-help/sign-in-login-and-account-issues/README.md)
   * [Forgot Superset Email ID](student-help/sign-in-login-and-account-issues/forgot-superset-email-id.md)
   * [Forgot Superset Account Password](student-help/sign-in-login-and-account-issues/forgot-superset-account-password.md)
-  * [Change Superset Email ID/Phone Number](student-help/sign-in-login-and-account-issues/change-superset-email-id-phone-number.md)
-  * [Change My Superset Password](student-help/sign-in-login-and-account-issues/change-my-superset-password.md)
+* [Account Issues](student-help/account-issues/README.md)
+  * [Change My Superset Password](student-help/account-issues/change-my-superset-password.md)
+  * [Change Superset Email ID/Phone Number](student-help/account-issues/change-superset-email-id-phone-number.md)
 * [Student Profile \(My Profile\) Issues](student-help/student-profile-my-profile-issues/README.md)
   * [How to get my profile verified?](student-help/student-profile-my-profile-issues/how-to-get-my-profile-verified.md)
   * [Change my Name in Superset](student-help/student-profile-my-profile-issues/change-my-name-in-superset.md)

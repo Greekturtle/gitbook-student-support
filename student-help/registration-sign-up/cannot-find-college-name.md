@@ -1,4 +1,4 @@
-# Cannot find college name
+# Can't find my college in the list
 
 If you cannot find your college name in the list provided by Superset, please try doing the following - 
 

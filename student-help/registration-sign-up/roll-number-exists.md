@@ -1,4 +1,4 @@
-# Roll Number already exists
+# Roll Number already exist
 
 While registering on Superset, if you find that your roll number already exists, it is possible that you might have already registered on Superset. See below the steps of how to login - 
 
