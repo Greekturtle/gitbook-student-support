@@ -1,4 +1,4 @@
-# How to change my Name
+# How to change my Name?
 
 * Click on the **My Profile** tab 
 * Go to the **About** section in your profile

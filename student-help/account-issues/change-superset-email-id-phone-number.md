@@ -1,4 +1,4 @@
-# How to change my EmailID
+# How to change my email ID?
 
 If you want to change your Superset Email ID or Phone Number. Then do the following - 
 

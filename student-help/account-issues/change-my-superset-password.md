@@ -1,4 +1,4 @@
-# How to change my password
+# How to change my password?
 
 If you want to change your Superset Email ID or Phone Number. Then do the following - 
 
