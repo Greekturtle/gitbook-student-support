@@ -1,4 +1,4 @@
-# How to apply for a Job Profile
+# How to apply for a Job Profile?
 
 * Click on the **Job Profiles** section on the homepage
 

@@ -4,7 +4,7 @@ description: >-
   assessment result, interview results, shortlist, final result, etc.
 ---
 
-# When will I get my results?
+# When will I get my job result?
 
 ### If you are applying for an on-campus job profile
 
