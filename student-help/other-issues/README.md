@@ -1,4 +1,4 @@
-# Other Issues
+# Other
 
 Please navigate to the section related to your query:
 

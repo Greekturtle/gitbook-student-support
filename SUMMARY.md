@@ -79,7 +79,7 @@
   * [My test ended abruptly](student-help/tests-and-assessments/my-test-ended-abruptly.md)
   * [I cannot log in to take the test](student-help/tests-and-assessments/i-cannot-log-in-to-take-the-test.md)
   * [Where is my test result?](student-help/tests-and-assessments/where-is-my-test-result.md)
-* [Other Issues](student-help/other-issues/README.md)
+* [Other](student-help/other-issues/README.md)
   * [Cannot upload a file](student-help/other-issues/cannot-upload-file.md)
   * [Superset App showing empty HOME tab](student-help/other-issues/empty-home-when-using-superset-app.md)
 
