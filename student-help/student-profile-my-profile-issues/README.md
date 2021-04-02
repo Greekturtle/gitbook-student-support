@@ -1,4 +1,4 @@
-# Student Profile \(My Profile\) Issues
+# My superset Profile
 
 Please navigate to the section related to your query:
 

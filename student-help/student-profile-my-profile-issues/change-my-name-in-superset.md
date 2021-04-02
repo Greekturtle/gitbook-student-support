@@ -1,4 +1,4 @@
-# Change my Name in Superset
+# How to change my Name
 
 * Click on the **My Profile** tab 
 * Go to the **About** section in your profile
