@@ -1,5 +1,7 @@
 # How to change 10th/12th percentage, GPA
 
+
+
 {% hint style="info" %}
 **NOTE -** If your **college placement office** \(or training and placement office or career development office\) **uses Superset** for placements, then you might not be allowed to change your Branch/Course/Department. 
 

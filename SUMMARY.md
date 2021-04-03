@@ -58,7 +58,7 @@
   * [How to change 10th/12th percentage, GPA](student-help/student-profile-my-profile-issues/change-my-branch-course-department.md)
   * [I don’t have documents to upload](student-help/student-profile-my-profile-issues/i-dont-have-documents-to-upload.md)
   * [Facing problems with Resume Builder](student-help/student-profile-my-profile-issues/facing-problems-with-resume-builder.md)
-  * [I want to change my branch/ course/ department](student-help/student-profile-my-profile-issues/i-want-to-change-my-branch-course-department.md)
+  * [I want to change my Branch/ Course/ Department](student-help/student-profile-my-profile-issues/i-want-to-change-my-branch-course-department.md)
 * [Job Profile or Job Application](student-help/job-application-issues/README.md)
   * [How to apply for a Job Profile?](student-help/job-application-issues/how-to-apply-for-job-profiles.md)
   * [When will I get my job result?](student-help/job-application-issues/when-will-i-get-my-results.md)
