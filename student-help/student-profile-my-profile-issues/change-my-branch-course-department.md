@@ -29,5 +29,7 @@ If you want to change your 10th, 12th percentage, GPA or Branch/Course/Departmen
 
 ![Save button](../../.gitbook/assets/screenshot-2021-04-01-at-7.35.57-pm.png)
 
+* Similarly, you have the option to edit your 10th/12th percentage
 
+![](../../.gitbook/assets/screenshot-2021-04-03-at-11.33.16-pm.png)
 

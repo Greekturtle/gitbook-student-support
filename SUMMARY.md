@@ -50,7 +50,6 @@
 * [Superset Account](student-help/account-issues/README.md)
   * [How to change my password?](student-help/account-issues/change-my-superset-password.md)
   * [How to change my email ID?](student-help/account-issues/change-superset-email-id-phone-number.md)
-  * [What is Alias?](student-help/account-issues/what-is-alias.md)
 * [My superset Profile](student-help/student-profile-my-profile-issues/README.md)
   * [How to change my Name?](student-help/student-profile-my-profile-issues/change-my-name-in-superset.md)
   * [How to verify my profile?](student-help/student-profile-my-profile-issues/how-to-get-my-profile-verified.md)
