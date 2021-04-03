@@ -19,16 +19,11 @@ If you want to change your 10th, 12th percentage, GPA or Branch/Course/Departmen
 
 ![Click on Edit under the Education section](../../.gitbook/assets/screenshot-2021-04-01-at-7.19.03-pm.png)
 
+* You can change your overall and semester-wise score here.
 
+![Change overall score](../../.gitbook/assets/screenshot-2021-04-03-at-11.26.28-pm.png)
 
-* When you see the pop-up, click on the **Change** button
-
-![Change button ](../../.gitbook/assets/screenshot-2021-04-01-at-7.19.33-pm.png)
-
-* Click on the **Major/Branch** dropdown to see the list of available majors
-* Choose the correct major 
-* 
-![Major/Branch dropdown](../../.gitbook/assets/screenshot-2021-04-01-at-7.20.06-pm.png)
+![Change semester-wise score](../../.gitbook/assets/screenshot-2021-04-03-at-11.26.41-pm.png)
 
 * Click on the **Save** button at the bottom of the pop-up to save your changes
 
