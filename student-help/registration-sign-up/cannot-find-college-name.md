@@ -2,15 +2,13 @@
 
 If you cannot find your college name in the list provided by Superset, please try doing the following - 
 
-* **Full name of college -** Try writing the full name of the college in the search bar.
-* **Popular names -** Try searching by popular name of the college. For example - '_Acme Institute of Technology and Science, Gurgaon_' can also be searched by '_AITS, Gurgaon'._
+* **Full name of college -** Try writing the full name of the college in the search bar. For example, if your college is IIT Kharagpur, type Indian Institute of Technology Kharagpur.
+
+![](../../.gitbook/assets/image%20%2836%29.png)
+
 * **Advanced Search -** You can also use the advanced search button to filter out the results. To do this - 
 
-{% hint style="info" %}
-SCREENSHOTS OF ADVANCED SEARCH 
-{% endhint %}
+![](../../.gitbook/assets/image%20%2835%29.png)
 
-* **Request to add college name -** If you still cannot find college name in the list after trying all the above, please fill [**this form**](https://zfrmz.in/aBCrBnXwyDRHNANbg8Yl)**.** If your college in actually not in the list, we will add your college in the list within 24 hours of submitting the request, or else you will be notified that the college is already present in the list.
-
-
+![](../../.gitbook/assets/image%20%2834%29.png)
 
