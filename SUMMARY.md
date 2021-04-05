@@ -53,7 +53,7 @@
 * [My superset Profile](student-help/student-profile-my-profile-issues/README.md)
   * [How to change my Name?](student-help/student-profile-my-profile-issues/change-my-name-in-superset.md)
   * [How to verify my profile?](student-help/student-profile-my-profile-issues/how-to-get-my-profile-verified.md)
-  * [Profile completion less than 100%"](student-help/student-profile-my-profile-issues/how-to-complete-my-profile.md)
+  * [Profile completion less than 100%](student-help/student-profile-my-profile-issues/how-to-complete-my-profile.md)
   * [How change Branch/ Course/ Department?](student-help/student-profile-my-profile-issues/change-branch-course-department.md)
   * [How to change 10th/12th percentage, GPA?](student-help/student-profile-my-profile-issues/change-10th-12th-percentage-gpa.md)
   * [I don’t have documents to upload](student-help/student-profile-my-profile-issues/i-dont-have-documents-to-upload.md)
