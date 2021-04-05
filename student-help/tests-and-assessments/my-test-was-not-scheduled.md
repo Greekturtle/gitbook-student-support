@@ -1,2 +1,10 @@
 # My test was not scheduled
 
+Scheduling of assessments is done by the company whose job profile you have applied for. 
+
+Your test will be scheduled as per the day and time decided by the hiring company.
+
+Please be patient until then. 
+
+In case of further concern, please reach out to the hiring team of the company you have applied to.
+
