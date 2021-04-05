@@ -10,7 +10,7 @@
 
 \(Remember that the email ID entered here will be your sign in / login email id. We recommend using a good password that you can remember at all times\)
 
-![](../.gitbook/assets/image%20%2845%29.png)
+![](../.gitbook/assets/image%20%2846%29.png)
 
 * Select your college name here - 
 
@@ -20,13 +20,13 @@
 
 * After selecting college, accepting terms and conditions, click Next
 
-![](../.gitbook/assets/image%20%2848%29.png)
+![](../.gitbook/assets/image%20%2849%29.png)
 
 * You will now be asked to verify your email id, personal email id and phone number and you will also be asked to fill your address and other details - 
 
-![](../.gitbook/assets/image%20%2846%29.png)
+![](../.gitbook/assets/image%20%2847%29.png)
 
-![](../.gitbook/assets/image%20%2850%29.png)
+![](../.gitbook/assets/image%20%2851%29.png)
 
 * Next, you will be asked to you fill your current course details -
 
@@ -36,11 +36,11 @@
 
 * Next, you have to add your 10th and 12th class details. Click on the '+' sign to add the details. You can also add another education by clicking on the 'Add Education' button. For example - If your current education in a Post graduate degree, then in the previous education section, you should mention your undergraduate degree in the Previous Education section.
 
-![](../.gitbook/assets/image%20%2854%29.png)
+![](../.gitbook/assets/image%20%2857%29.png)
 
 * Next, upload your profile photo \(Remember this is not Facebook! Please upload a professional looking photo\). This is not a compulsory step, you can upload your profile picture later too.
 
-![](../.gitbook/assets/image%20%2849%29.png)
+![](../.gitbook/assets/image%20%2850%29.png)
 
 * Next, upload your resume. This might not be a step, if you are registering for campus placements on Superset.
 

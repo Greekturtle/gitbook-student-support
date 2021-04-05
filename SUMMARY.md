@@ -5,10 +5,8 @@
 ## Registration
 
 * [Registration Process for Campus Placements](registration/signing-up-on-superset/README.md)
-  * [Registration via College Passphrase](registration/signing-up-on-superset/registration-via-college-passphrase.md)
   * [Using a College Passphrase](registration/signing-up-on-superset/using-a-college-passphrase.md)
   * [Using a personalised registration link](registration/signing-up-on-superset/using-a-personalised-registration-link.md)
-  * [Registration via Email Invitation](registration/signing-up-on-superset/registration-via-email-invitation.md)
 * [Registration Process for Off Campus Jobs](registration/registration-process.md)
 * [Registration Process to Subscribe to a company page](registration/registration-process-to-subscribe-to-a-company-page.md)
 
