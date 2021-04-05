@@ -6,9 +6,13 @@ If you are trying to create a resume after a very long time, the new changes tha
 
 * Check with your college placement office if they have approved the changes that you made. If your college uses Superset, then, in many cases your college placement cell has to approve the changes to your profile.
 
-i am unable to upload my own resume 
+**Issue -** _I am unable to upload my own resume_ - 
 
-PDF generation taking too much time
+Please see this [section](../other-issues/).
+
+**Issue -** _PDF generation taking too much time -_
+
+Please wait for a couple of minutes for your resume to be built. If your resume generation is still taking a lot time then please try creating another resume.
 
 
 
