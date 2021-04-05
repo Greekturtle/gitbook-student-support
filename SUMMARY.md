@@ -67,7 +67,6 @@
   * [I have been offerred the job but I cannot see the Accept button](student-help/job-application-issues/i-have-been-offerred-the-job-but-i-cannot-see-the-accept-button.md)
   * [I have not received Letter of Intent](student-help/job-application-issues/i-have-not-received-letter-of-intent.md)
   * [Unable to download Letter of Intent](student-help/job-application-issues/unable-to-download-letter-of-intent.md)
-  * [Unable to upload Letter of Intent](student-help/job-application-issues/unable-to-upload-letter-of-intent.md)
   * [Not Eligible shown under Job Profile](student-help/job-application-issues/not-eligible-shown-under-job-profile.md)
   * [Unable to withdraw my job application](student-help/job-application-issues/unable-to-withdraw-my-job-application.md)
 * [Tests or Assessments](student-help/tests-and-assessments/README.md)
