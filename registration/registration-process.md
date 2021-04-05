@@ -4,126 +4,53 @@ description: >-
   process
 ---
 
-# Registration Process
+# Registration Process for Off Campus Jobs
 
-### Personal Details
+**To apply for an off campus job** \(a job that is not being handled by your college placement cell or college administration\) you must have received a link to apply for that job. Click on the link.Steps for registration are given below - 
 
-In this section the students must enter their personal details before creating their profile. They will be entering the following details
+* Click on 'Start Registering', but if you already have a Superset account. click on SignIn -
 
-1. Full Name
-2. Email Address
-3. Mobile Number
-4. Gender
-5. Category
-6. Password \(to be chosen by the students\) 
+![](../.gitbook/assets/image%20%2839%29.png)
 
-### Academic Details
+* Now, enter your personal details -
 
-In the academic details section the student must enter the following details
+\(Remember that the email ID entered here will be your sign in / login email id. We recommend using a good password that you can remember at all times\)
 
-1. Select the course you belong to
-2. Select the batch.
-3. Month and Year of admission
-4. Month and Year of Expected Graduation
-5. Institute Roll Number
-6. Current Semester
-7. Score \( Current Cumulative average in percentage\)
-8. Mention if they are a lateral entry student or not
-9. Semester Wise scores
-10.  Backlog Details
+![](../.gitbook/assets/image%20%2845%29.png)
 
-### Preferences
+* Select your college name here - 
 
-On this page the students are encouraged to select their career preference and answer the following questions
+**Very Important - You cannot change your college name later, please ensure that you select correct college.** While searching, please use your full college name. Please use the advanced search option if you still cannot find your college name.
 
-#### **Q1. Career Plans**
+![](../.gitbook/assets/image%20%2840%29.png)
 
-* I’m interested in receiving placement assistance from the college
-* Plan to go for higher education
-* Plan to go for civil services
-* Plan to start own business
-* Plan to join family business
-* Plan for deferred placements
-* Plan to apply off campus
-* Plan to go for Post-Doc
-* Plan to join academia/teaching
-* Others
+* After selecting college, accepting terms and conditions, click Next
 
-#### **Q2. What are you looking for ?**
+![](../.gitbook/assets/image%20%2848%29.png)
 
-* Full time job
-* Internship
-* Part-time job
-* On-campus placement
-* Not sure yet
+* You will now be asked to verify your email id, personal email id and phone number and you will also be asked to fill your address and other details - 
 
-#### **Q3. What job roles are you interested in ? Pick more than one**
+![](../.gitbook/assets/image%20%2846%29.png)
 
-* Software Engineering
-* Sales
-* Core Engineering
-* Marketing
-* Data Analytics
-* Consultant
-* Banking/Finance
-* Customer Service/Support
-* HR
-* Research and Development
-* Other
+![](../.gitbook/assets/image%20%2850%29.png)
 
-#### **Q4. Type of employer ? Pick more than one**
+* Next, you will be asked to you fill your current course details -
 
-* Large Company **\(**_MNC's fall in this category_**\)**
-* Small Company 
-* Mid Sized Company 
-* Start-up
+![](../.gitbook/assets/image%20%2842%29.png)
 
-#### **Q5. Acceptable Salary ? Pick more than one**
+![](../.gitbook/assets/image%20%2841%29.png)
 
-* 2**-**3 Lacs
-* 3-5 Lacs
-* 5-8 Lacs
-* 8-12 Lacs
-* More than 12 lacs
+* Next, you have to add your 10th and 12th class details. Click on the '+' sign to add the details. You can also add another education by clicking on the 'Add Education' button. For example - If your current education in a Post graduate degree, then in the previous education section, you should mention your undergraduate degree in the Previous Education section.
 
-#### **Q6. Any location preferences ? Pick one or more**
+![](../.gitbook/assets/image%20%2854%29.png)
 
-* Anywhere in India
-* North India
-* South India
-* East India
-* West India
-* In or near my hometown
-* Only metro cities
-* Outside India
+* Next, upload your profile photo \(Remember this is not Facebook! Please upload a professional looking photo\). This is not a compulsory step, you can upload your profile picture later too.
 
-### Confirm
+![](../.gitbook/assets/image%20%2849%29.png)
 
-In this page the students must agree to the terms and conditions. Complete a captcha. This completes the first part of student registration which is creating a profile
+* Next, upload your resume. This might not be a step, if you are registering for campus placements on Superset.
 
-### Complete Profile
+![](../.gitbook/assets/image%20%2844%29.png)
 
-Once the student has created the profile they must login to the platform and complete their profiles. 
-
-There will be a checklist available to them which shows the mandatory details to be entered
-
-The students are advised to be ready to do the following
-
-1. Verify their Mobile Number and Email Address
-2. Enter their permanent address,current address and any mandatory data asked by the college
-3. Add the details of class X
-4. Add the details of class XII 
-5. Students who are doing their PG must enter the details of their UG course
-6. Mention your education gap, if any
-7. Enroll to the placement cycle
-
-### Enroll 
-
-Enrolling to the placement cycle is the most crucial step to complete the registration. 
-
-Students must enroll to their respective placement cycle. If they do not complete this step they will be deemed ineligible and will not receive any job notifications from Superset
-
-Placement Cycle is available to them under My Profile &gt;&gt; My Placement Enrollments &gt;&gt; Enroll \(Green Button\) 
-
-
+After the Resume step, you will be taken to apply for an off campus job opening.
 
