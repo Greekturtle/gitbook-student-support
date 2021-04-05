@@ -55,6 +55,7 @@
   * [Profile completion less than 100%](student-help/student-profile-my-profile-issues/how-to-complete-my-profile.md)
   * [How change Branch/ Course/ Department?](student-help/student-profile-my-profile-issues/change-branch-course-department.md)
   * [How to change 10th/12th percentage, GPA?](student-help/student-profile-my-profile-issues/change-10th-12th-percentage-gpa.md)
+  * [Can't edit placement details](student-help/student-profile-my-profile-issues/cant-edit-placement-details.md)
   * [I don’t have documents to upload](student-help/student-profile-my-profile-issues/i-dont-have-documents-to-upload.md)
   * [Facing problems with Resume Builder](student-help/student-profile-my-profile-issues/facing-problems-with-resume-builder.md)
 * [Job Profile or Job Application](student-help/job-application-issues/README.md)
