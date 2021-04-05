@@ -1,6 +1,6 @@
 # Forgot my password
 
-If you do not remember your Superset email ID \(the email ID that you use to login to superset\) then please do the following - 
+If you do not remember your Superset password \(the email ID that you use to login to superset\) then please do the following - 
 
 ![](../../.gitbook/assets/image%20%2814%29.png)
 
