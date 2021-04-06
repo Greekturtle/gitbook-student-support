@@ -1,8 +1,4 @@
----
-description: 1. Cannot
----
-
-# Common Issues
+# College not exists
 
 If you cannot find your college name in the list provided by Superset, please try doing the following - 
 
