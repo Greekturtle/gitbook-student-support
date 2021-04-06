@@ -12,3 +12,5 @@ If you cannot find your college name in the list provided by Superset, please tr
 
 ![](../../.gitbook/assets/image%20%2834%29.png)
 
+**If you still cannot find your college, please enter the details for your college name in this form -** [**https://form.asana.com/?k=fkOT\_f3VYC1lb6k4jkPB0w&d=35442031271678**](https://form.asana.com/?k=fkOT_f3VYC1lb6k4jkPB0w&d=35442031271678)
+
