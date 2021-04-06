@@ -1,4 +1,8 @@
-# Can't find my college in the list
+---
+description: 1. Cannot
+---
+
+# Common Issues
 
 If you cannot find your college name in the list provided by Superset, please try doing the following - 
 
