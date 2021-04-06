@@ -47,7 +47,6 @@
   * [Email ID entered already exists](student-help/registration-sign-up/email-id-already-exists.md)
   * [Roll Number entered already exists](student-help/registration-sign-up/roll-number-exists.md)
 * [Login / Sign In](student-help/sign-in-login-and-account-issues/README.md)
-  * [OTP Issues](student-help/sign-in-login-and-account-issues/otp-issues.md)
   * [Forgot my password](student-help/sign-in-login-and-account-issues/forgot-superset-account-password.md)
 * [Superset Account](student-help/account-issues/README.md)
   * [How to change my password?](student-help/account-issues/change-my-superset-password.md)
