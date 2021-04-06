@@ -45,7 +45,6 @@
   * [OTP is wrong/ OTP not received](student-help/registration-sign-up/otp-is-wrong-otp-not-received.md)
   * [Can't find my college in the list](student-help/registration-sign-up/cannot-find-college-name.md)
   * [Email ID entered already exists](student-help/registration-sign-up/email-id-already-exists.md)
-  * [OTP Not received/OTP is wrong](student-help/registration-sign-up/otp-not-received-otp-is-wrong.md)
   * [Roll Number entered already exists](student-help/registration-sign-up/roll-number-exists.md)
 * [Login / Sign In](student-help/sign-in-login-and-account-issues/README.md)
   * [Forgot my password](student-help/sign-in-login-and-account-issues/forgot-superset-account-password.md)
