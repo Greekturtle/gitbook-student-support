@@ -42,6 +42,7 @@
 ## Student Help
 
 * [Registration / Sign Up](student-help/registration-sign-up/README.md)
+  * [OTP is wrong/ OTP not received](student-help/registration-sign-up/otp-is-wrong-otp-not-received.md)
   * [Can't find my college in the list](student-help/registration-sign-up/cannot-find-college-name.md)
   * [Email ID entered already exists](student-help/registration-sign-up/email-id-already-exists.md)
   * [OTP Not received/OTP is wrong](student-help/registration-sign-up/otp-not-received-otp-is-wrong.md)
