@@ -30,6 +30,10 @@ description: >-
 
 * You will now be asked to verify your email id, personal email id and phone number and you will also be asked to fill your address and other details - 
 
+**NOTE - If your college** **uses Superset for placements, then the Mobile OTP verification is compulsory for you. If your college does not use Superset for placements, then it is not compulsory for you.**
+
+**Email OTP verification is compulsory for any and all students.**
+
 ![](../.gitbook/assets/image%20%2847%29.png)
 
 ![](../.gitbook/assets/image%20%2851%29.png)
