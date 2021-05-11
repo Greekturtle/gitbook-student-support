@@ -6,3 +6,5 @@ Please navigate to the section that your query is related to:
 * [Email ID already exists ](email-id-already-exists.md)- Whiling signing up, it shows that the email ID entered already exists, i.e. there is already an existing account with this email ID.
 * [Roll Number already exists](roll-number-exists.md) - The roll number entered by the student during registration already exists.
 
+
+

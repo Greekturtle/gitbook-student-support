@@ -52,6 +52,7 @@
   * [How to change my email address?](student-help/account-issues/how-to-change-my-email-address.md)
   * [How to change my password?](student-help/account-issues/change-my-superset-password.md)
 * [My superset Profile](student-help/student-profile-my-profile-issues/README.md)
+  * [Untitled](student-help/student-profile-my-profile-issues/untitled.md)
   * [How to change my Name?](student-help/student-profile-my-profile-issues/change-my-name-in-superset.md)
   * [How to verify my profile?](student-help/student-profile-my-profile-issues/how-to-get-my-profile-verified.md)
   * [Profile completion less than 100%](student-help/student-profile-my-profile-issues/how-to-complete-my-profile.md)
