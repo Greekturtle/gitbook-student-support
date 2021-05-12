@@ -11,6 +11,11 @@
 
 * [Popular Questions](partner.student.help/popular-questions/README.md)
   * [I did not receive OTP to verify my email ID/phone number. When will I get it?](partner.student.help/popular-questions/i-did-not-receive-otp-to-verify-my-email-id-phone-number.-when-will-i-get-it.md)
+  * [I did not complete sign up process. Why is it asking me to sign in?](partner.student.help/popular-questions/i-did-not-complete-sign-up-process.-why-is-it-asking-me-to-sign-in.md)
+  * [I forgot my password / forgot my email ID. What to do?](partner.student.help/popular-questions/i-forgot-my-password-forgot-my-email-id.-what-to-do.md)
+  * [I cannot edit my college name / roll number / sign in email ID. How to change it?](partner.student.help/popular-questions/i-cannot-edit-my-college-name-roll-number-sign-in-email-id.-how-to-change-it.md)
+  * [When will I get my interview / test results?](partner.student.help/popular-questions/when-will-i-get-my-interview-test-results.md)
+  * [I cannot find college in the list. How to add a new college name?](partner.student.help/popular-questions/i-cannot-find-college-in-the-list.-how-to-add-a-new-college-name.md)
 * [Registration/Sign Up Process](partner.student.help/registration-sign-up-process/README.md)
   * [Where can I register on Superset?](partner.student.help/registration-sign-up-process/where-can-i-register-on-superset.md)
   * [Basic Details](partner.student.help/registration-sign-up-process/basic-details.md)
@@ -24,13 +29,28 @@
   * [What is the home feed/home section?](partner.student.help/home-section/what-is-the-home-feed-home-section.md)
   * [How to use the home feed/home section?](partner.student.help/home-section/how-to-use-the-home-feed-home-section.md)
 * [Job Profiles Section](partner.student.help/job-profiles-section.md)
-* [My Profile Section](partner.student.help/my-profile-section.md)
+* [My Profile Section](partner.student.help/my-profile-section/README.md)
+  * [Profile](partner.student.help/my-profile-section/profile.md)
+  * [About](partner.student.help/my-profile-section/about.md)
+  * [Education](partner.student.help/my-profile-section/education.md)
+  * [Internship and Work Experience](partner.student.help/my-profile-section/internship-and-work-experience.md)
+  * [Technical Skills](partner.student.help/my-profile-section/technical-skills.md)
+  * [Positions of responsibility](partner.student.help/my-profile-section/positions-of-responsibility.md)
+  * [Projects](partner.student.help/my-profile-section/projects.md)
+  * [Subjects](partner.student.help/my-profile-section/subjects.md)
+  * [Communication Languages](partner.student.help/my-profile-section/communication-languages.md)
+  * [Accomplishments](partner.student.help/my-profile-section/accomplishments.md)
+  * [Volunteer Experience](partner.student.help/my-profile-section/volunteer-experience.md)
+  * [Extra Curricular Activites](partner.student.help/my-profile-section/extra-curricular-activites.md)
+  * [Resume, Documents, Social Accounts](partner.student.help/my-profile-section/resume-documents-social-accounts.md)
+  * [Placement Enrollments](partner.student.help/my-profile-section/placement-enrollments.md)
 * [Events Section](partner.student.help/events-section.md)
 * [Interviews Section](partner.student.help/interviews-section.md)
 * [More Section](partner.student.help/more-section.md)
 * [Account Section](partner.student.help/account-section/README.md)
   * [What is Account section?](partner.student.help/account-section/what-is-account-section.md)
   * [Changing email id, phone number and password](partner.student.help/account-section/changing-email-id-phone-number-and-password.md)
+  * [How to login to Superset?](partner.student.help/account-section/how-to-login-to-superset.md)
 
 ## I am using Superset to apply for a job
 
@@ -61,6 +81,7 @@
 * [Account Section](i-am-using-superset-to-apply-for-a-job/account-section/README.md)
   * [What is Account section?](i-am-using-superset-to-apply-for-a-job/account-section/what-is-account-section.md)
   * [Changing email, mobile number, password](i-am-using-superset-to-apply-for-a-job/account-section/changing-email-mobile-number-password.md)
+  * [How to login to Superset?](i-am-using-superset-to-apply-for-a-job/account-section/how-to-login-to-superset.md)
 
 ## Superset Student Profile
 
