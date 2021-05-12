@@ -1,10 +1,18 @@
-# Registration Process to Subscribe to a company page
+# Using a personalised registration link
 
-**To subscribe to a company page**, please follow these steps - 
+Each student will be given a **personalised registration link** which is unique for each student of that college. You must have received an email from your college placement office containing this link. Please note that this link is unique for each student. 
+
+{% hint style="info" %}
+Please check with your faculty or the placement department of your college if you have not received the link.
+{% endhint %}
+
+The email will look something like this, click on 'Click here to register'  - 
+
+![](../.gitbook/assets/image%20%2855%29.png)
 
 * Click on 'Start Registering', but if you already have a Superset account. click on SignIn -
 
-![](../.gitbook/assets/image%20%2843%29.png)
+![](../.gitbook/assets/image%20%2839%29.png)
 
 * Now, enter your personal details -
 
@@ -46,5 +54,5 @@
 
 ![](../.gitbook/assets/image%20%2844%29.png)
 
-After the Resume step, you will be taken to subscribe to the company page.
+After the Resume step, you will be taken to apply for a placement cycle.
 

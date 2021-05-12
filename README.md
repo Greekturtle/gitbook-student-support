@@ -4,13 +4,13 @@ description: >-
   during campus placements and apply for off-campus opportunities.
 ---
 
-# Superset for Students
+# Superset Student Help
 
 ## Guides
 
 ### Registering on Superset
 
-{% page-ref page="registration/signing-up-on-superset/" %}
+{% page-ref page="signing-up-on-superset/" %}
 
 ### My Superset Profile
 
