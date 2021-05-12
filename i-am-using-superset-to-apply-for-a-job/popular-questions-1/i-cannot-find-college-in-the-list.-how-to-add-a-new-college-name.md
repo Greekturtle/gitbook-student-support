@@ -2,11 +2,11 @@
 
 * Try searching your college name using the **full name of the college**, for example - IIT Kharagpur can be searched as - **Indian Institute of Technology Kharagpur**
 
-![](../../.gitbook/assets/image%20%2866%29.png)
+![](../../.gitbook/assets/image%20%2864%29.png)
 
 * Try using the '**Search Using PINCODE Option**'. Enter the PINCODE of your college's address. You can find the pincode of your college by searching your college address on google. After entering the PINCODE, you should be able to see all the colleges with that PINCODE.
 
-![](../../.gitbook/assets/image%20%2862%29.png)
+![](../../.gitbook/assets/image%20%2861%29%20%281%29.png)
 
 * If you still cannot find your college, click on the this link -                 or click on the contact support button below.
 
