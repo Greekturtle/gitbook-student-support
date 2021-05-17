@@ -6,8 +6,6 @@ When you are trying to sign in using - [https://app.joinsuperset.com/](https://a
 
 * Click on the Forgot password button.
 
-\[IMAGE\]
-
 ![](../../.gitbook/assets/image%20%28111%29.png)
 
 * Now, enter the sign in email ID of your Superset Account
