@@ -4,7 +4,7 @@
 * [Interview slots not available](interview-slots-not-available.md)
 * [The test link was not working](the-test-link-was-not-working.md)
 * [My test ended abruptly](my-test-ended-abruptly.md)
-* [I cannot log in to take the test](i-cannot-log-in-to-take-the-test.md)
+* [I cannot log in to take the test]()
 * [Where is my test result?](where-is-my-test-result.md)
 
 ### If you are applying for an On-Campus Job Profile - 
