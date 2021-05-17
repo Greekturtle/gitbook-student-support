@@ -1,11 +1,6 @@
 # Table of contents
 
 * [Superset Student Help](README.md)
-* [Registration Process for Campus Placements](signing-up-on-superset/README.md)
-  * [Using a College Passphrase](signing-up-on-superset/using-a-college-passphrase.md)
-  * [Using a personalised registration link](signing-up-on-superset/using-a-personalised-registration-link.md)
-* [Registration Process for Off Campus Jobs](registration-process.md)
-* [Registration Process to Subscribe to a company page](registration-process-to-subscribe-to-a-company-page.md)
 
 ## My college uses Superset for Placements <a id="partner.student.help"></a>
 
@@ -106,6 +101,14 @@
 * [Account Section](i-am-using-superset-to-apply-for-a-job/account-section/README.md)
   * [Changing email, mobile number, password](i-am-using-superset-to-apply-for-a-job/account-section/changing-email-mobile-number-password.md)
   * [How to login to Superset?](i-am-using-superset-to-apply-for-a-job/account-section/how-to-login-to-superset.md)
+
+---
+
+* [Registration Process for Campus Placements](signing-up-on-superset/README.md)
+  * [Using a College Passphrase](signing-up-on-superset/using-a-college-passphrase.md)
+  * [Using a personalised registration link](signing-up-on-superset/using-a-personalised-registration-link.md)
+* [Registration Process for Off Campus Jobs](registration-process.md)
+* [Registration Process to Subscribe to a company page](registration-process-to-subscribe-to-a-company-page.md)
 
 ## Superset Student Profile
 
