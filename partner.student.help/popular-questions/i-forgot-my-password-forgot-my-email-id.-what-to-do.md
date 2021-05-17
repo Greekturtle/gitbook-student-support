@@ -16,5 +16,5 @@ When you are trying to sign in using - [https://app.joinsuperset.com/](https://a
 * If the password reset link sent your inbox is not working then, you might have used that link before. Please check your inbox for the latest password reset link.
 * If you did not receive the link within 10 mins of clicking on 'Request Reset
 
-### Do not remember your password
+### Do not remember your email ID
 
