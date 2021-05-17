@@ -80,6 +80,7 @@
 * [Job Profiles Section](i-am-using-superset-to-apply-for-a-job/job-profiles-section.md)
 * [My Profile Section](i-am-using-superset-to-apply-for-a-job/my-profile-section/README.md)
   * [Profile](i-am-using-superset-to-apply-for-a-job/my-profile-section/profile.md)
+  * [Profile Completion Percentage](i-am-using-superset-to-apply-for-a-job/my-profile-section/profile-completion-percentage.md)
   * [About](i-am-using-superset-to-apply-for-a-job/my-profile-section/about.md)
   * [Education](i-am-using-superset-to-apply-for-a-job/my-profile-section/education.md)
   * [Internship and Work Experience](i-am-using-superset-to-apply-for-a-job/my-profile-section/internship-and-work-experience.md)
