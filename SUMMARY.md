@@ -35,6 +35,7 @@
   * [Accepting an Offer](partner.student.help/job-profiles-section/accepting-an-offer.md)
 * [My Profile Section](partner.student.help/my-profile-section/README.md)
   * [Profile](partner.student.help/my-profile-section/profile.md)
+  * [Profile Completion Percentage](partner.student.help/my-profile-section/profile-completion-percentage.md)
   * [About](partner.student.help/my-profile-section/about.md)
   * [Education](partner.student.help/my-profile-section/education.md)
   * [Internship and Work Experience](partner.student.help/my-profile-section/internship-and-work-experience.md)
