@@ -6,5 +6,5 @@ If the home feed looks empty, then this is not an error! Please proceed to the J
 
 For a better experience, please use a laptop/desktop browser \(like Google Chrome app\) to use Superset.
 
-![](../../.gitbook/assets/image%20%28119%29.png)
+![](../../.gitbook/assets/image%20%28120%29.png)
 
