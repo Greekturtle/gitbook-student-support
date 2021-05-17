@@ -4,5 +4,5 @@ If your **college uses Superset for placements**, the Home Section allows your c
 
 We encourage students to regularly check the Home Feed to stay updated with the information from your college's placement office. You can even post a comment on the updates posted in the Home Section to get your queries answered. 
 
-![](../../.gitbook/assets/image%20%28119%29.png)
+![](../../.gitbook/assets/image%20%28122%29.png)
 
