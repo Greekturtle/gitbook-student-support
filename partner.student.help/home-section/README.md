@@ -4,5 +4,5 @@ If your **college uses Superset for placements**, Home Section or the Home Feed 
 
 The Home Feed will look like this - 
 
-![](../../.gitbook/assets/image%20%28113%29.png)
+![](../../.gitbook/assets/image%20%28114%29.png)
 

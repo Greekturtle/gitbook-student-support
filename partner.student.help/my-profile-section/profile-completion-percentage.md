@@ -6,11 +6,11 @@ You might ****see - 'Your profile has been submitted for verification' at the to
 
 If your **college does not use Superset for placements** and you are using Superset only to apply for a job, then you can ignore this verification tag.
 
-![](../../.gitbook/assets/image%20%28128%29.png)
+![](../../.gitbook/assets/image%20%28130%29.png)
 
 ### Profile Completion Percentage
 
 The profile completion percentage is merely a representation of the number of sections that you have filled in the entire My Profile tab. It is definitely **NOT A CONSTRAINT** for you to appear in placements or to apply for jobs. 
 
-![](../../.gitbook/assets/image%20%28125%29.png)
+![](../../.gitbook/assets/image%20%28127%29.png)
 
