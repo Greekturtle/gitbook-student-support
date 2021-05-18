@@ -18,7 +18,5 @@ If your email Address already exists with Superset, then you will be prompted to
 
 After you enter all the details correctly click on, 'Save and Next'. You will be shown a prompt asking you to verify the details that you have just entered. If you are confident that you have entered the correct details and then click on 'Save and Next' on the prompt, or else click on 'Cancel' and correct your details. Remember, you will not be allowed to visit this section of the registration form after you go to the next section.
 
-![](../../.gitbook/assets/image%20%28142%29.png)
-
-
+![](../../.gitbook/assets/image%20%28143%29.png)
 
