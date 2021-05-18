@@ -2,7 +2,7 @@
 
 The Previous Education section covers the details of your education before your current education.
 
-![](../../.gitbook/assets/image%20%28150%29.png)
+![](../../.gitbook/assets/image%20%28155%29.png)
 
 For example, if your current degree is B.E. then you will be asked for 12th and 10th class details. For example, if your current degree is M.E. then you will be asked for your Undergraduate degree, 12th and 10th details. Under each previous education \(like 10th or 12th\) you will be asked to enter the following details - 
 

@@ -19,7 +19,7 @@
   * [Current/Most Recent Education](partner.student.help/registration-sign-up-process/current-most-recent-education.md)
   * [Previous Education](partner.student.help/registration-sign-up-process/previous-education.md)
   * [Internships and Work Experience](partner.student.help/registration-sign-up-process/internships-and-work-experience.md)
-  * [Final Step \(All done!\)](partner.student.help/registration-sign-up-process/final-step-all-done.md)
+  * [Enroll for Placements](partner.student.help/registration-sign-up-process/final-step-all-done.md)
   * [Steps after Registration](partner.student.help/registration-sign-up-process/steps-after-registration.md)
 * [Home Section / Home Feed](partner.student.help/home-section/README.md)
   * [Where is the Home section?](partner.student.help/home-section/where-is-the-home-section.md)
