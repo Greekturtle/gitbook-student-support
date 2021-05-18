@@ -14,5 +14,7 @@ If your email Address already exists with Superset, then you will be prompted to
 {% endhint %}
 
 * **Personal Email Address** - Enter your personal email id \(this can be your gmail, outlook or yahoo id\)
-* **Mobile Number -** Select the country code and enter your 10 digit mobile number
+* **Mobile Number -** Select the country code and enter your 10 digit mobile number.
+
+After you enter all the details correctly click on, 'Save and Next'. You will be shown a prompt asking you to verify the details that you have just entered. If you are confident that you have entered the correct details and then click on 'Save and Next' on the prompt, or else click on 'Cancel' and correct your details. Remember, you will not be allowed to visit this section of the registration form after you go to the next section.
 
