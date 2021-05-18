@@ -10,3 +10,7 @@ The Internship and Work Experience covers details of your internships and previo
 
 ![](../../.gitbook/assets/image%20%28151%29.png)
 
+![](../../.gitbook/assets/image%20%28156%29.png)
+
+After entering your Internship or work experience, click on 'Save and Next' to continue.
+
