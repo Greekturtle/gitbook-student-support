@@ -25,6 +25,7 @@
   * [Where is the Home section?](partner.student.help/home-section/where-is-the-home-section.md)
   * [How to use the home feed/home section?](partner.student.help/home-section/how-to-use-the-home-feed-home-section.md)
 * [Job Profiles Section](partner.student.help/job-profiles-section/README.md)
+  * [Where is the Job Profiles section?](partner.student.help/job-profiles-section/where-is-the-job-profiles-section.md)
   * [What is a Job Profile?](partner.student.help/job-profiles-section/what-is-a-job-profile.md)
   * [Job Eligibility - Why am I not eligible for a job?](partner.student.help/job-profiles-section/job-eligibility.md)
   * [How to Apply to a job?](partner.student.help/job-profiles-section/applying-to-a-job.md)
