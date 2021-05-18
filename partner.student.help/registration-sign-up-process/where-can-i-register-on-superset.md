@@ -5,6 +5,9 @@
 * Click on the link sent to you \(if you have received the personalised link\) or go to - [https://app.joinsuperset.com](https://app.joinsuperset.com/#/s/feed) and start the registration by clicking on - 'I have a college passphrase'. 
 * Enter the college correct college passphrase and proceed with the registration.
 * You can find the details of each step in the rest of the sections under - 'Registration/Sign Up Process'.
+* If you have received a link to register on Superset, upon clicking the link, you should see a screen like this -
+
+![](../../.gitbook/assets/image%20%28117%29.png)
 
 
 
