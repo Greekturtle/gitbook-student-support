@@ -1,4 +1,4 @@
-# Projects and Subjects
+# Projects, Subjects
 
 ### Projects
 
