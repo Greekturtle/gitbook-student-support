@@ -34,6 +34,7 @@
 * [My Profile Section](partner.student.help/my-profile-section/README.md)
   * [Where is the My Profile section?](partner.student.help/my-profile-section/where-is-the-my-profile-section.md)
   * [Profile](partner.student.help/my-profile-section/profile.md)
+  * [Generate Resume](partner.student.help/my-profile-section/generate-resume.md)
   * [Profile Verification and Profile Completion Percentage](partner.student.help/my-profile-section/profile-completion-percentage.md)
   * [About](partner.student.help/my-profile-section/about.md)
   * [Education](partner.student.help/my-profile-section/education.md)
