@@ -44,7 +44,6 @@
   * [Projects, Subjects](partner.student.help/my-profile-section/projects.md)
   * [Communication Languages, Accomplishments](partner.student.help/my-profile-section/communication-languages.md)
   * [Volunteer Experience, Extra Curricular Activites](partner.student.help/my-profile-section/volunteer-experience.md)
-  * [Extra Curricular Activites](partner.student.help/my-profile-section/extra-curricular-activites.md)
   * [Resume, Documents, Social Accounts](partner.student.help/my-profile-section/resume-documents-social-accounts.md)
   * [Placement Enrollments](partner.student.help/my-profile-section/placement-enrollments.md)
 * [Events Section](partner.student.help/events-section.md)
