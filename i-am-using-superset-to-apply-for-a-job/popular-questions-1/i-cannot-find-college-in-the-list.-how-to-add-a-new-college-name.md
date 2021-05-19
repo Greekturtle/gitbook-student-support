@@ -12,7 +12,7 @@
 
 * If you still cannot find your college, click on the this link - 'Still cannot find your college?' or click on the contact support button below.
 
-![](../../.gitbook/assets/image%20%28209%29.png)
+![](../../.gitbook/assets/image%20%28210%29.png)
 
 
 

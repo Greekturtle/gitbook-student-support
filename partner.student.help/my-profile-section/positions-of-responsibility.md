@@ -6,11 +6,11 @@
 
 * You can add a new position of responsibility by clicking on '+Add Position of Responsibility' shown in the top right corner \(see image below\).
 
-![](../../.gitbook/assets/image%20%28199%29.png)
+![](../../.gitbook/assets/image%20%28200%29.png)
 
 * You will now see a prompt to enter the details for your position of responsibility.
 
-![](../../.gitbook/assets/image%20%28184%29.png)
+![](../../.gitbook/assets/image%20%28185%29.png)
 
 * After entering the details in the prompt \(as shown above\), click on 'Save', shown in the bottom right corner.
 

@@ -6,11 +6,11 @@
 
 * To add a new internship or work experience, click on '+ Add Experience' on the top right corner -
 
-![](../../.gitbook/assets/image%20%28205%29.png)
+![](../../.gitbook/assets/image%20%28206%29.png)
 
 * This will open a prompt where you can enter your internship/work experience details -
 
-![](../../.gitbook/assets/image%20%28190%29.png)
+![](../../.gitbook/assets/image%20%28191%29.png)
 
 * After entering the details in the prompt shown above, click on 'Save' \(in the bottom right corner, as shown above\).
 
