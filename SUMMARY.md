@@ -65,7 +65,7 @@
   * [When will I receive my LOI?](i-am-using-superset-to-apply-for-a-job/popular-questions-1/when-will-i-receive-my-loi.md)
   * [I cannot edit my college name / roll number / sign in email ID after registration. How to change it?](i-am-using-superset-to-apply-for-a-job/popular-questions-1/i-cannot-edit-my-college-name-roll-number-sign-in-email-id.-how-to-change-it.md)
   * [I did not complete sign up process. Why is it asking me to sign in?](i-am-using-superset-to-apply-for-a-job/popular-questions-1/i-did-not-complete-sign-up-process.-why-is-it-asking-me-to-sign-in.md)
-  * [I forgot my password / forgot my email ID. What to do?](i-am-using-superset-to-apply-for-a-job/popular-questions-1/i-forgot-my-password-forgot-my-email-id.-what-to-do.md)
+  * [I forgot my password. What to do?](i-am-using-superset-to-apply-for-a-job/popular-questions-1/i-forgot-my-password-forgot-my-email-id.-what-to-do.md)
   * [When will I get my interview / test results?](i-am-using-superset-to-apply-for-a-job/popular-questions-1/when-will-i-get-my-interview-test-results.md)
 * [Registration / Sign Up Process](i-am-using-superset-to-apply-for-a-job/registration-sign-up-process/README.md)
   * [Where can I register on Superset?](i-am-using-superset-to-apply-for-a-job/registration-sign-up-process/where-can-i-register-on-superset.md)
