@@ -52,7 +52,7 @@
 * [Events Section](partner.student.help/events-section.md)
 * [Interviews Section](partner.student.help/interviews-section.md)
 * [More \(Assessments\) Section](partner.student.help/more-section/README.md)
-  * [Where is the Assessments?](partner.student.help/more-section/where-is-the-assessments.md)
+  * [Where is the Assessments section?](partner.student.help/more-section/where-is-the-assessments.md)
   * [My test was not scheduled](partner.student.help/more-section/my-test-was-not-scheduled.md)
   * [When will I get my test results?](partner.student.help/more-section/when-will-i-get-my-test-results.md)
   * [Test link not working / My test ended abruptly](partner.student.help/more-section/test-link-not-working-my-test-ended-abruptly.md)

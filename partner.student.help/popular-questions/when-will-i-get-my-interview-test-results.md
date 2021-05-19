@@ -1,4 +1,4 @@
 # When will I get my interview / test results?
 
-Companies usually take a while to declare the results for interviews or tests. Please be patient while the companies are evaluating your interview/test. If you still have any concerns, and if your **college uses Superset for placements**, then in this case please reach out to the placement cell \(or the training and placement office\) of your college to get your queries regarding interviews and test results answered.
+Companies usually take a some time to evaluate the results of the test and interviews. Please be patient, you will receive your test or interview results soon. If you still think that there has been an issue, then please click on Contact Support below. Please mention the date of your interview/test if you are trying to contact us by clicking Contact Support.
 
