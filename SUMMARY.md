@@ -64,6 +64,7 @@
 * [Popular Questions](i-am-using-superset-to-apply-for-a-job/popular-questions-1/README.md)
   * [I did not receive OTP to verify my email ID/phone number. When will I get it?](i-am-using-superset-to-apply-for-a-job/popular-questions-1/i-did-not-receive-otp-to-verify-my-email-id-phone-number.-when-will-i-get-it.md)
   * [I cannot find college in the list. How to add a new college name?](i-am-using-superset-to-apply-for-a-job/popular-questions-1/i-cannot-find-college-in-the-list.-how-to-add-a-new-college-name.md)
+  * [Why am I not eligible for the job?](i-am-using-superset-to-apply-for-a-job/popular-questions-1/why-am-i-not-eligible-for-the-job.md)
   * [When will I receive my LOI?](i-am-using-superset-to-apply-for-a-job/popular-questions-1/when-will-i-receive-my-loi.md)
   * [I cannot edit my college name / roll number / sign in email ID after registration. How to change it?](i-am-using-superset-to-apply-for-a-job/popular-questions-1/i-cannot-edit-my-college-name-roll-number-sign-in-email-id.-how-to-change-it.md)
   * [I did not complete sign up process. Why is it asking me to sign in?](i-am-using-superset-to-apply-for-a-job/popular-questions-1/i-did-not-complete-sign-up-process.-why-is-it-asking-me-to-sign-in.md)
