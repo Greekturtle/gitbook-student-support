@@ -1,5 +1,11 @@
 # I forgot my password. What to do?
 
+### During Registration:
+
+
+
+### Normal Sign in:
+
 When you are trying to sign in using - [https://app.joinsuperset.com/](https://app.joinsuperset.com/#/s/feed) and if you -
 
 * Click on the Forgot password button.
