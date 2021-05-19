@@ -6,7 +6,7 @@
 
 * You should now see the prompt shown below. Type your skill name, select your proficiency for this skill, and then click 'Save'.
 
-![](../../.gitbook/assets/image%20%28205%29.png)
+![](../../.gitbook/assets/image%20%28207%29.png)
 
 
 

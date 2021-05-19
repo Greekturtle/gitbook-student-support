@@ -8,7 +8,7 @@
 
 * Enter the language name and select proficiency. Then click 'Save'.
 
-![](../../.gitbook/assets/image%20%28191%29.png)
+![](../../.gitbook/assets/image%20%28193%29.png)
 
 ### Accomplishments
 

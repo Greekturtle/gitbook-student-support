@@ -2,7 +2,7 @@
 
 A job profile contains the details of a job opening posted by a company. These details include - CTC being offered, Job Description, Hiring Workflow, Eligibility Criteria for the job. A typical Job Profile Looks like the one shown below:
 
-![](../../.gitbook/assets/image%20%28200%29.png)
+![](../../.gitbook/assets/image%20%28202%29.png)
 
 ![](../../.gitbook/assets/image%20%28175%29.png)
 
