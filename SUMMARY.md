@@ -27,7 +27,7 @@
 * [Job Profiles Section](partner.student.help/job-profiles-section/README.md)
   * [Where is the Job Profiles section?](partner.student.help/job-profiles-section/where-is-the-job-profiles-section.md)
   * [What is a Job Profile?](partner.student.help/job-profiles-section/what-is-a-job-profile.md)
-  * [Job Eligibility - Why am I not eligible for a job?](partner.student.help/job-profiles-section/job-eligibility.md)
+  * [Job Eligibility Criteria - Why am I not eligible for a job?](partner.student.help/job-profiles-section/job-eligibility.md)
   * [How to Apply to a job?](partner.student.help/job-profiles-section/applying-to-a-job.md)
   * [Tracking the Status of the Job](partner.student.help/job-profiles-section/tracking-the-status-of-the-job.md)
   * [Accepting an Offer](partner.student.help/job-profiles-section/accepting-an-offer.md)

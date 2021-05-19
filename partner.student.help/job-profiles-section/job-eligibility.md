@@ -1,2 +1,2 @@
-# Job Eligibility - Why am I not eligible for a job?
+# Job Eligibility Criteria - Why am I not eligible for a job?
 
