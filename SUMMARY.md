@@ -27,8 +27,8 @@
 * [Job Profiles Section](partner.student.help/job-profiles-section/README.md)
   * [Where is the Job Profiles section?](partner.student.help/job-profiles-section/where-is-the-job-profiles-section.md)
   * [What is a Job Profile?](partner.student.help/job-profiles-section/what-is-a-job-profile.md)
-  * [Job Eligibility Criteria - Why am I not eligible for a job?](partner.student.help/job-profiles-section/job-eligibility.md)
   * [How to Apply to a job?](partner.student.help/job-profiles-section/applying-to-a-job.md)
+  * [Job Eligibility Criteria - Why am I not eligible for a job?](partner.student.help/job-profiles-section/job-eligibility.md)
   * [Tracking the Status of the Job](partner.student.help/job-profiles-section/tracking-the-status-of-the-job.md)
   * [Accepting an Offer](partner.student.help/job-profiles-section/accepting-an-offer.md)
 * [My Profile Section](partner.student.help/my-profile-section/README.md)
@@ -53,7 +53,7 @@
   * [When will I get my test results?](partner.student.help/more-section/when-will-i-get-my-test-results.md)
   * [Test link not working / My test ended abruptly](partner.student.help/more-section/test-link-not-working-my-test-ended-abruptly.md)
 * [Account Section](partner.student.help/account-section/README.md)
-  * [Changing email id, phone number and password](partner.student.help/account-section/changing-email-id-phone-number-and-password.md)
+  * [Changing email id, mobile number and password](partner.student.help/account-section/changing-email-id-phone-number-and-password.md)
   * [How to login to Superset?](partner.student.help/account-section/how-to-login-to-superset.md)
 
 ## I am using Superset to apply for a job
@@ -99,7 +99,7 @@
 * [Interviews Section](i-am-using-superset-to-apply-for-a-job/interviews-section.md)
 * [More Section](i-am-using-superset-to-apply-for-a-job/more-section.md)
 * [Account Section](i-am-using-superset-to-apply-for-a-job/account-section/README.md)
-  * [Changing email, mobile number, password](i-am-using-superset-to-apply-for-a-job/account-section/changing-email-mobile-number-password.md)
+  * [Changing email id, mobile number and password](i-am-using-superset-to-apply-for-a-job/account-section/changing-email-mobile-number-password.md)
   * [How to login to Superset?](i-am-using-superset-to-apply-for-a-job/account-section/how-to-login-to-superset.md)
 
 ---

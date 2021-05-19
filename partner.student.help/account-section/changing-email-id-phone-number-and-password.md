@@ -1,4 +1,4 @@
-# Changing email id, phone number and password
+# Changing email id, mobile number and password
 
 Students are not allowed to edit their Superset Email ID once the registration is complete. However, you can edit your phone number and password by following these steps - 
 
