@@ -34,7 +34,10 @@ A job profile contains the details of a job opening posted by a company. These d
 
 ### Eligibility Criteria:
 
-* These are the skills that are **desired for the job.** They are not a criteria for you to apply for any role.
+* This section lists the eligibility criteria provided by the company for a job opening. 
+* **For example -** Job criteria can be - 60% in 10th and 12th class, B.E. candidates only
+* For any Job Profile, you can see on the top right side if you are eligible for the job.
+* The 'Eligibility Criteria' has been covered in detail in the next section titled - '**Job Eligibility Criteria - Why am I not eligible for a job?'**
 
 
 
