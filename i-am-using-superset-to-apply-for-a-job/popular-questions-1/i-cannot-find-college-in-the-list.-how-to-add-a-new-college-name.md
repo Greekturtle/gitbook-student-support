@@ -6,9 +6,15 @@
 
 * Try using the '**Search Using PINCODE Option**'. Enter the PINCODE of your college's address. You can find the pincode of your college by searching your college address on google. After entering the PINCODE, you should be able to see all the colleges with that PINCODE.
 
+![](../../.gitbook/assets/image%20%28170%29.png)
+
 ![](../../.gitbook/assets/image%20%2861%29%20%281%29.png)
 
-* If you still cannot find your college, click on the this link -                 or click on the contact support button below.
+* If you still cannot find your college, click on the this link - 'Still cannot find your college?' or click on the contact support button below.
+
+![](../../.gitbook/assets/image%20%28208%29.png)
+
+
 
  
 

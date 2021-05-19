@@ -4,11 +4,11 @@ You can also generate a resume by clicking on Generate Resume. This resume will 
 
 * Click on the Generate Resume button -
 
-![](../../.gitbook/assets/image%20%28176%29.png)
+![](../../.gitbook/assets/image%20%28177%29.png)
 
 * Now click on 'Create Resume' -
 
-![](../../.gitbook/assets/image%20%28173%29.png)
+![](../../.gitbook/assets/image%20%28174%29.png)
 
 * Then, choose a template and click \`Start 
 
