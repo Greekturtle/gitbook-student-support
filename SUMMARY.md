@@ -97,7 +97,7 @@
   * [Placement Enrollments](i-am-using-superset-to-apply-for-a-job/my-profile-section/section.md)
 * [Events Section](i-am-using-superset-to-apply-for-a-job/events-section.md)
 * [Interviews Section](i-am-using-superset-to-apply-for-a-job/interviews-section.md)
-* [More Section](i-am-using-superset-to-apply-for-a-job/more-section.md)
+* [More \(Assessments\) Section](i-am-using-superset-to-apply-for-a-job/more-section.md)
 * [Account Section](i-am-using-superset-to-apply-for-a-job/account-section/README.md)
   * [Changing email id, mobile number and password](i-am-using-superset-to-apply-for-a-job/account-section/changing-email-mobile-number-password.md)
   * [How to login to Superset?](i-am-using-superset-to-apply-for-a-job/account-section/how-to-login-to-superset.md)
