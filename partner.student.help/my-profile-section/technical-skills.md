@@ -2,11 +2,11 @@
 
 * Under the Technical Skills section, you can add a list of your technical skills. Click on '+ Add Skill' to add a new skill.
 
-![](../../.gitbook/assets/image%20%28173%29.png)
+![](../../.gitbook/assets/image%20%28175%29.png)
 
 * You should now see the prompt shown below. Type your skill name, select your proficiency for this skill, and then click 'Save'.
 
-![](../../.gitbook/assets/image%20%28192%29.png)
+![](../../.gitbook/assets/image%20%28201%29.png)
 
 
 

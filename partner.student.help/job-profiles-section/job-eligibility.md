@@ -6,7 +6,7 @@ Whenever a company posts a job opening on Superset, they set some eligibility cr
 
 * When you enter the 'Job Profiles' section and click on a Job Opening, on the top right hand side, you will see **'Apply for this profile' if you are eligible for the job.**
 
-![](../../.gitbook/assets/image%20%28190%29.png)
+![](../../.gitbook/assets/image%20%28197%29.png)
 
 * **If you are ineligible for the job**, then you will see this on this right hand side - 'You are not eligible for this job profile'. You can scroll down on the same page to check why you are ineligible for the job.
 

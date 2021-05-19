@@ -40,7 +40,7 @@
   * [Education](partner.student.help/my-profile-section/education.md)
   * [Internship and Work Experience](partner.student.help/my-profile-section/internship-and-work-experience.md)
   * [Technical Skills](partner.student.help/my-profile-section/technical-skills.md)
-  * [Positions of responsibility](partner.student.help/my-profile-section/positions-of-responsibility.md)
+  * [Positions of Responsibility](partner.student.help/my-profile-section/positions-of-responsibility.md)
   * [Projects and Subjects](partner.student.help/my-profile-section/projects.md)
   * [Communication Languages](partner.student.help/my-profile-section/communication-languages.md)
   * [Accomplishments](partner.student.help/my-profile-section/accomplishments.md)

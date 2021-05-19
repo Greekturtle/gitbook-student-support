@@ -4,7 +4,7 @@
 * You can also add a Profile Summary under this section by clicking on - 'Click here to add a summary'
 * Your roll number, once entered during registration, cannot be changed later!
 
-![](../../.gitbook/assets/image%20%28166%29.png)
+![](../../.gitbook/assets/image%20%28168%29.png)
 
 
 
