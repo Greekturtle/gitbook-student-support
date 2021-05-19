@@ -7,7 +7,7 @@ The About section contains the following -
 * Address - Permanent Address and Current Address \(For example your college hostel's address\)
 * Additional Info - Some additional info related to your profile
 
-![](../../.gitbook/assets/image%20%28113%29.png)
+![](../../.gitbook/assets/image%20%28162%29.png)
 
 
 
