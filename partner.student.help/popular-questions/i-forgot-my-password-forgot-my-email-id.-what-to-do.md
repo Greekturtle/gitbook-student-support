@@ -2,8 +2,6 @@
 
 When you are trying to sign in using - [https://app.joinsuperset.com/](https://app.joinsuperset.com/#/s/feed) and if you -
 
-### Do not remember your password
-
 * Click on the Forgot password button.
 
 ![](../../.gitbook/assets/image%20%28172%29.png)
