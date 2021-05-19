@@ -1,4 +1,4 @@
-# Job Eligibility Criteria - Why am I not eligible for a job?
+# Why am I not eligible for a job? - Job Eligibility Criteria
 
 Whenever a company posts a job opening on Superset, they set some eligibility criteria for the students. Based on this EligIbility Criteria you may be eligible or not eligible for the Job. For example, the eligibility criteria can be - 60% in 10th and 12th class, B.E. candidates only.
 
