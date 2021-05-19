@@ -18,7 +18,7 @@ If your **college uses Superset for placements**, to apply for a job follow thes
 
 ![](../../.gitbook/assets/image%20%28170%29.png)
 
-* You can now click on the 'Job Profiles' tab again check for more job openings.
+* You can now click on the 'JOB PROFILES' tab again check for more job openings.
 
 
 
