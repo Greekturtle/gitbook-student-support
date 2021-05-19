@@ -16,7 +16,10 @@
 
 ### Social Accounts
 
-* You add the links to your profiles on social and professional networks in this section. Click on the '+Add Social Profile' to add a social account.
+* You can connect your Gmail or Facebook account to Superset. To do so, click on '+Add Account.'
+* You can also add the links to your profiles on social and professional networks in this section. Click on the '+Add Social Profile' to add a social account.
+
+![](../../.gitbook/assets/image%20%28196%29.png)
 
 
 
