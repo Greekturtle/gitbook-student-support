@@ -13,7 +13,7 @@
   * [I cannot edit my college name / roll number / Email ID after registration. How to change it?](partner.student.help/popular-questions/i-cannot-edit-my-college-name-roll-number-sign-in-email-id.-how-to-change-it.md)
   * [I am facing issues while uploading a file. What should I do?](partner.student.help/popular-questions/i-am-facing-issues-while-uploading-a-file.-what-should-i-do.md)
 * [Registration/Sign Up Process](partner.student.help/registration-sign-up-process/README.md)
-  * [Where can I register on Superset?](partner.student.help/registration-sign-up-process/where-can-i-register-on-superset.md)
+  * [How to register on Superset?](partner.student.help/registration-sign-up-process/where-can-i-register-on-superset.md)
   * [Basic Details](partner.student.help/registration-sign-up-process/basic-details.md)
   * [Contact Details](partner.student.help/registration-sign-up-process/contact-details.md)
   * [Current/Most Recent Education](partner.student.help/registration-sign-up-process/current-most-recent-education.md)

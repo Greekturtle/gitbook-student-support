@@ -1,4 +1,4 @@
-# Where can I register on Superset?
+# How to register on Superset?
 
 * If your **college uses** **Superset for placements**, then you might have received a personalised link in your email inbox to start registering on Superset.  
 * Along with the link you will be informed by your college placement cell about a 'College Passphrase' that you will be required to enter in the first step of the registration process. OR You might have received a link from your college to start your registration for placements.
