@@ -7,7 +7,7 @@
 * [Popular Questions](partner.student.help/popular-questions/README.md)
   * [I did not receive OTP to verify my email ID/phone number. When will I get it?](partner.student.help/popular-questions/i-did-not-receive-otp-to-verify-my-email-id-phone-number.-when-will-i-get-it.md)
   * [I forgot my password. What to do?](partner.student.help/popular-questions/i-forgot-my-password-forgot-my-email-id.-what-to-do.md)
-  * [I did not complete sign up process. Why is it asking me to sign in?](partner.student.help/popular-questions/i-did-not-complete-sign-up-process.-why-is-it-asking-me-to-sign-in.md)
+  * [I did not complete registration process. Why is it asking me to sign in?](partner.student.help/popular-questions/i-did-not-complete-sign-up-process.-why-is-it-asking-me-to-sign-in.md)
   * [During registration it says 'Roll Number already exists'. What to do?](partner.student.help/popular-questions/during-registration-it-says-roll-number-already-exists.-what-to-do.md)
   * [When will I get my interview / test results?](partner.student.help/popular-questions/when-will-i-get-my-interview-test-results.md)
   * [I cannot edit my college name / roll number / Email ID after registration. How to change it?](partner.student.help/popular-questions/i-cannot-edit-my-college-name-roll-number-sign-in-email-id.-how-to-change-it.md)
