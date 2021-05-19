@@ -1,2 +1,2 @@
-# Registration / Sign Up Process
+# How to apply to a job? \(Job Application Process\)
 

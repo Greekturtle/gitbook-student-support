@@ -4,13 +4,13 @@
 
 * You can add a resume to your profile. Click on '+ Add Resume' to add a resume.
 
-![](../../.gitbook/assets/image%20%28166%29.png)
+![](../../.gitbook/assets/image%20%28167%29.png)
 
 ### Documents
 
 * Additional documents, relevant to your profile can also be added. Click on '+Add Documents' to add new documents.
 
-![](../../.gitbook/assets/image%20%28174%29.png)
+![](../../.gitbook/assets/image%20%28175%29.png)
 
 
 
@@ -19,7 +19,7 @@
 * You can connect your Gmail or Facebook account to Superset. To do so, click on '+Add Account.'
 * You can also add the links to your profiles on social and professional networks in this section. Click on the '+Add Social Profile' to add a social account.
 
-![](../../.gitbook/assets/image%20%28200%29.png)
+![](../../.gitbook/assets/image%20%28203%29.png)
 
 
 

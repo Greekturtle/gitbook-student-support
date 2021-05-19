@@ -1,12 +1,16 @@
 # I forgot my password. What to do?
 
-When you are trying to sign in using - [https://app.joinsuperset.com/](https://app.joinsuperset.com/#/s/feed) and if you -
+### During Registration:
 
-### Do not remember your password
+
+
+### Normal Sign in:
+
+When you are trying to sign in using - [https://app.joinsuperset.com/](https://app.joinsuperset.com/#/s/feed) and if you -
 
 * Click on the Forgot password button.
 
-![](../../.gitbook/assets/image%20%28162%29.png)
+![](../../.gitbook/assets/image%20%28163%29.png)
 
 * Now, enter the sign in email ID of your Superset Account
 
