@@ -10,7 +10,7 @@ You can also generate a resume by clicking on Generate Resume. This resume will 
 
 ![](../../.gitbook/assets/image%20%28164%29.png)
 
-* Then, choose a template and click \`Start
+* Then, choose a template and click \`Start 
 
 
 

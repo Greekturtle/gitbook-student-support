@@ -16,7 +16,7 @@ If your **college uses Superset for placements**, to apply for a job follow thes
 
 * After clicking on 'Apply for this Job' you should see this - 'You have applied for this job profile' on the top top right hand side
 
-![](../../.gitbook/assets/image%20%28176%29.png)
+![](../../.gitbook/assets/image%20%28177%29.png)
 
 * You can now click on the 'JOB PROFILES' tab again check for more job openings.
 
