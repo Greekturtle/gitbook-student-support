@@ -14,8 +14,6 @@ description: >-
 
 ### My Superset Profile
 
-{% page-ref page="superset-student-profile/home-page.md" %}
-
 ### Job Applications
 
 ### Job Offers
