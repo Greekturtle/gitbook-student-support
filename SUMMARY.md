@@ -55,6 +55,7 @@
   * [When will I get my test results?](partner.student.help/more-section/when-will-i-get-my-test-results.md)
   * [Test link not working / My test ended abruptly](partner.student.help/more-section/test-link-not-working-my-test-ended-abruptly.md)
 * [Account Section](partner.student.help/account-section/README.md)
+  * [Where is the account sections?](partner.student.help/account-section/where-is-the-account-sections.md)
   * [Changing email id, mobile number and password](partner.student.help/account-section/changing-email-id-phone-number-and-password.md)
   * [How to login to Superset?](partner.student.help/account-section/how-to-login-to-superset.md)
 
