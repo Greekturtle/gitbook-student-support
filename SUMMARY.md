@@ -82,6 +82,7 @@
   * [Final Step \(All done!\)](i-am-using-superset-to-apply-for-a-job/registration-sign-up-process/final-step-all-done.md)
   * [Steps After Registration](i-am-using-superset-to-apply-for-a-job/registration-sign-up-process/steps-after-registration.md)
 * [Home Section / Home Feed](i-am-using-superset-to-apply-for-a-job/home-section/README.md)
+  * [Where is the Home section?](i-am-using-superset-to-apply-for-a-job/home-section/where-is-the-home-section.md)
   * [Why is my home section/home feed empty?](i-am-using-superset-to-apply-for-a-job/home-section/why-is-my-home-section-home-feed-empty.md)
 * [Job Profiles Section](i-am-using-superset-to-apply-for-a-job/job-profiles-section.md)
 * [My Profile Section](i-am-using-superset-to-apply-for-a-job/my-profile-section/README.md)
