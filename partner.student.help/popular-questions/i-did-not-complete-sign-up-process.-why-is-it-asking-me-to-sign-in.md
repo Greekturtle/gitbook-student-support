@@ -1,6 +1,6 @@
 # I did not complete registration process. Why is it asking me to sign in?
 
-During registering/applying for a new job, you might be asked to sign in when you enter your email ID or phone number. This is because you had earlier registered with Superset or you might have an incomplete registration on Superset.
+During registration/applying for a new job, you might be asked to sign in when you enter your email ID or phone number. This is because you had earlier registered with Superset or you might have an incomplete registration on Superset.
 
 ![](../../.gitbook/assets/image%20%28128%29.png)
 
