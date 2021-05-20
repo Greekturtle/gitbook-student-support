@@ -20,5 +20,3 @@ To apply for a job follow these steps:
 
 * You can now click on the 'JOB PROFILES' tab again check for more job openings.
 
-
-
