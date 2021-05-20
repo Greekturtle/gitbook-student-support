@@ -2,7 +2,7 @@
 
 * If you are **using Superset to apply for a Job**, then you might have received a link from the company to apply for the job. 
 * Click on the link sent to you and start your job application \(which in turn registers you on Superset\).
-* After clicking on the land, you will land on a page similar to this -
+* After clicking on the link, you will land on a page similar to this -
 
 ![](../../.gitbook/assets/image%20%28196%29.png)
 
