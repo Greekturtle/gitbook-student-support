@@ -10,8 +10,6 @@ description: >-
 
 ### Registering on Superset
 
-{% page-ref page="signing-up-on-superset/" %}
-
 ### My Superset Profile
 
 ### Job Applications

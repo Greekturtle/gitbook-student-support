@@ -14,7 +14,7 @@ To apply for a job follow these steps:
 
 ![](../../.gitbook/assets/image%20%28178%29.png)
 
-* After clicking on 'Apply for this Job' you should see this - 'You have applied for this job profile' on the top top right hand side
+* After clicking on 'Apply for this Job', you should see this - 'You have applied for this job profile' on the top top right hand side
 
 ![](../../.gitbook/assets/image%20%28213%29.png)
 
