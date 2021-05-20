@@ -1,4 +1,4 @@
-# Where is the Assessments section?
+# Where is the More \(Assessments\) section?
 
 \[Assessment section screenshot\]
 
