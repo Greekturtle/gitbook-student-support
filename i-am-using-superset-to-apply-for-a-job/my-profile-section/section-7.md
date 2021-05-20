@@ -1,8 +1,16 @@
 # Positions of Responsibility
 
-You can add positions of responsibility in order to help the recruiters identify your leadership qualities that you possess in order to keep your skills diverse and more appreciable.
+* The Position of Responsibility section includes the details of the positions that you have held at college level in student groups, clubs, societies, fests etc.
 
- 
+![](../../.gitbook/assets/image%20%28174%29.png)
 
-![](../../.gitbook/assets/image%20%2897%29.png)
+* You can add a new position of responsibility by clicking on '+Add Position of Responsibility' shown in the top right corner \(see image below\).
+
+![](../../.gitbook/assets/image%20%28205%29.png)
+
+* You will now see a prompt to enter the details for your position of responsibility.
+
+![](../../.gitbook/assets/image%20%28188%29.png)
+
+* After entering the details in the prompt \(as shown above\), click on 'Save', shown in the bottom right corner.
 

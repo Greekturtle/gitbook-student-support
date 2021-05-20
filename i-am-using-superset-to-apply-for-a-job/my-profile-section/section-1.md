@@ -1,32 +1,25 @@
 # Resume, Documents and Social Accounts
 
-**Resume** stands as the most significant key to ace any interview. The first thing that the recruiters would look for during any hiring process is your resume which you can upload by clicking on the '**Add resume**' option.
+### Resume
 
-![](../../.gitbook/assets/image%20%2895%29.png)
+* You can add a resume to your profile. Click on '+ Add Resume' to add a resume.
 
-![](../../.gitbook/assets/image%20%28108%29.png)
+![](../../.gitbook/assets/image%20%28167%29.png)
 
-The "Upload Resume" dialog box appears as shown above. You can select the file of your resume from the system and apply a suitable name to it. Finally click on "Upload File" option.
+### Documents
 
-![](../../.gitbook/assets/image%20%28100%29.png)
+* Additional documents, relevant to your profile can also be added. Click on '+Add Documents' to add new documents.
 
-**DOCUMENT upload:**
-
-You can add additional relevant documents for authentication or certificates that will enhance your profile.
+![](../../.gitbook/assets/image%20%28175%29.png)
 
 
 
+### Social Accounts
+
+* You can connect your Gmail or Facebook account to Superset. To do so, click on '+Add Account.'
+* You can also add the links to your profiles on social and professional networks in this section. Click on the '+Add Social Profile' to add a social account.
+
+![](../../.gitbook/assets/image%20%28203%29.png)
 
 
-
-
-**SOCIAL ACCOUNTS:**
-
-Adding your GitHub, LinkedIn and other social accounts will help the recruiter know your skills in a better way. Hence, we suggest you to add your social profiles by clicking on the "Add Social Profile" option.
-
-![](../../.gitbook/assets/image%20%2888%29.png)
-
-![](../../.gitbook/assets/image%20%28109%29.png)
-
-Type the Link of your social profile and select the Platform. Finally, click on "Add Social Profile" option.
 

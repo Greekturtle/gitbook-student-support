@@ -1,6 +1,30 @@
 # Communication Languages, Accomplishments
 
-Here you can add all the different languages you are adept to and mark yourself on their corresponding proficiency by clicking on the "Add Language" option and then choosing the right box for proficiency level in it. You can also edit or delete one or more languages when you want to.
+### Communication Languages
 
-![](../../.gitbook/assets/image%20%2894%29.png)
+* You can add the languages that you know by clicking '+ Add Language' \(shown in top right corner in the image below\). 
+
+![](../../.gitbook/assets/image%20%28165%29.png)
+
+* Enter the language name and select proficiency. Then click 'Save'.
+
+![](../../.gitbook/assets/image%20%28202%29.png)
+
+### Accomplishments
+
+* Under the Accomplishments section, you can add the following -
+  * Awards and Recognitions
+  * Certificates
+  * Competitions
+  * Conferences and Workshops
+  * Test Scores
+  * Patents 
+  * Publications
+  * Scholarships
+
+![](../../.gitbook/assets/image%20%28171%29.png)
+
+![](../../.gitbook/assets/image%20%28186%29.png)
+
+
 
