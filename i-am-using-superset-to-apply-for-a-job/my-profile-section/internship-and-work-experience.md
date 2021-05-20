@@ -1,12 +1,18 @@
 # Internship and Work Experience
 
-You can add all your previous internships and work experience in this section in order for the recruiters to reach out to you for the job, by clicking on the "Add Experience" option.
+* Under the Internship and Work Experience section you can add the internships that you have completed. You can also add your previous work experience here.
 
-![](../../.gitbook/assets/image%20%2889%29.png)
+![](../../.gitbook/assets/image%20%28179%29.png)
 
-Once you have filled in the required details, simply click on "**Save**".
+* To add a new internship or work experience, click on '+ Add Experience' on the top right corner -
 
-You can also edit the details of the previous experiences in case you want you by simply clicking on the edit button, making the necessary changes and then click on "**Save"**.
+![](../../.gitbook/assets/image%20%28212%29.png)
+
+* This will open a prompt where you can enter your internship/work experience details -
+
+![](../../.gitbook/assets/image%20%28195%29.png)
+
+* After entering the details in the prompt shown above, click on 'Save' \(in the bottom right corner, as shown above\).
 
 
 

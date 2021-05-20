@@ -6,31 +6,12 @@ description: >-
 
 # About
 
-**NOTE :**                                                                                                                                                                               You cannot edit your Name, Date of Birth, Gender , Category and your registration email in this section once you have already completed your registration process. Hence, we suggest you to take extra care while filling these in your registration form.
+The About section contains the following - 
 
-![](../../.gitbook/assets/image%20%28103%29.png)
+* Name, Date of Birth and Gender - You will not be allowed to edit these details after the registration process. If you have entered incorrect details for any of these, you can get in touch with us by clicking 'Contact Support' below.
+* Contact Details - Email ID and Phone Number - Please verify your email ID and phone number if you did not do it during the registration process
+* Address - Permanent Address and Current Address \(For example your college hostel's address\)
+* Additional Info - Some additional info related to your profile
 
-The fields available for edits are your Contact Number, email , your address , Placement and Career Plans.
-
-**Contact No.** : To edit your contact no., click on "Change Number" option. The Mobile Number Change dialog box appears. Type your new mobile number and click on "verify". Once the OTP is verified, your new mobile number will be saved in the profile.
-
-![](../../.gitbook/assets/image%20%2885%29.png)
-
-**Permanent and Current address :**  
-
-For editing your Permanent and Current Address, click on the "Edit Permanent Address" or "Edit Current Address". A dialog box appears in which you need to make the desired changes and then click on "**Save Changes**".
-
-![](../../.gitbook/assets/image%20%2890%29.png)
-
-
-
-**Placement Details and Career Plans :**
-
-In order to edit the placement details, click on "Edit Placement Details" option and from the drop down menu select your desired choice of career plans. 
-
-![](../../.gitbook/assets/image%20%2877%29.png)
-
-Next, specify the sector/domain you want to be considered for and click on "**Save Changes**".
-
-![](../../.gitbook/assets/image%20%2881%29.png)
+![](../../.gitbook/assets/image%20%28242%29.png)
 
