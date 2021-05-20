@@ -138,27 +138,3 @@
 * [Live attendance for events and job profiles](live-attendance-for-events-and-job-profiles.md)
 * [FAQ's about your Superset Account](faqs.md)
 
-## Student Help
-
-* [Job Profile or Job Application](student-help/job-application-issues/README.md)
-  * [How to apply for a Job Profile?](student-help/job-application-issues/how-to-apply-for-job-profiles.md)
-  * [When will I get my job result?](student-help/job-application-issues/when-will-i-get-my-results.md)
-  * [When will I receive the offer letter?](student-help/job-application-issues/when-will-i-receive-the-offer-letter.md)
-  * [How to accept an offer?](student-help/job-application-issues/how-to-accept-an-offer.md)
-  * [Offer acceptance deadline has passed. How can I accept the offer?](student-help/job-application-issues/offer-acceptance-deadline-has-passed.-how-can-i-accept-the-offer.md)
-  * [I have been offerred the job but I cannot see the Accept button](student-help/job-application-issues/i-have-been-offerred-the-job-but-i-cannot-see-the-accept-button.md)
-  * [I have not received Letter of Intent](student-help/job-application-issues/i-have-not-received-letter-of-intent.md)
-  * [Unable to download Letter of Intent](student-help/job-application-issues/unable-to-download-letter-of-intent.md)
-  * [Not Eligible shown under Job Profile](student-help/job-application-issues/not-eligible-shown-under-job-profile.md)
-  * [Unable to withdraw my job application](student-help/job-application-issues/unable-to-withdraw-my-job-application.md)
-* [Tests or Assessments](student-help/tests-and-assessments/README.md)
-  * [Tests and Assessments Related Issues](student-help/tests-and-assessments/tests-and-assessments-related-issues.md)
-  * [My test was not scheduled](student-help/tests-and-assessments/my-test-was-not-scheduled.md)
-  * [Interview slots not available](student-help/tests-and-assessments/interview-slots-not-available.md)
-  * [Test link not working](student-help/tests-and-assessments/the-test-link-was-not-working.md)
-  * [My test ended abruptly](student-help/tests-and-assessments/my-test-ended-abruptly.md)
-  * [Where is my test result?](student-help/tests-and-assessments/where-is-my-test-result.md)
-* [Other](student-help/other-issues/README.md)
-  * [Cannot upload a file](student-help/other-issues/cannot-upload-file.md)
-  * [Superset App showing empty HOME tab](student-help/other-issues/empty-home-when-using-superset-app.md)
-

@@ -18,5 +18,6 @@ To apply for a job follow these steps:
 
 ![](../../.gitbook/assets/image%20%28213%29.png)
 
+* Candidates are not allowed to withdraw their application from the process once the application deadline has passed. 
 * You can now click on the 'JOB PROFILES' tab again check for more job openings.
 
