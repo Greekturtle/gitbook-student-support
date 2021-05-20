@@ -5,7 +5,7 @@ Whenever a company posts a job opening on Superset, they set some eligibility cr
 ### Eligibility during Registration - 
 
 * While applying for a Job opening, at the last step of the job application, if you see 'You are not eligible for the job' it means you does not meet the eligibility criteria for the job opening. 
-* During last step \(All done! step\) scroll down on your screen to see why you are not eligible for the job.
+* During last step \(All done! step\) **scroll down on your screen to see why you are not eligible for the job.**
 
 ![](../../.gitbook/assets/image%20%28210%29.png)
 
