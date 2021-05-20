@@ -1,8 +1,4 @@
 # Events Section
 
-ashoka university
-
-iim a b c
-
-srm
+The Event section lists the events posted by your college. This can include events like college fests, workshops, club events etc. 
 

@@ -16,8 +16,6 @@ description: >-
 
 ### Job Offers
 
-{% page-ref page="job-offers/how-to-upload-offer-letter.md" %}
-
 
 
 

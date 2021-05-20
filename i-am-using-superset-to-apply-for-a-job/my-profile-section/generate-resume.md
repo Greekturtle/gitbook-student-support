@@ -22,11 +22,3 @@ You can also generate a resume by clicking on Generate Resume. This resume will 
 * In the control panel you will find all the sections. Any point removed from a particular section in the resume, appears in these sections so that it can be added again if required. You also have an option to add page breaks, hide section headings and to delete the entire section.
 * After formatting your resume, you can now download it from here and upload it in the MY PROFILE section OR link it directly to your profile \(see the green button in the screenshot above\).
 
-
-
-
-
-
-
-
-

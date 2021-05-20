@@ -31,6 +31,7 @@
   * [Why am I not eligible for a job? - Job Eligibility Criteria](partner.student.help/job-profiles-section/job-eligibility.md)
   * [Tracking the Status of the Job Application](partner.student.help/job-profiles-section/tracking-the-status-of-the-job.md)
   * [Accepting an Offer from a company](partner.student.help/job-profiles-section/accepting-an-offer.md)
+  * [Offer acceptance deadline has passed. How can I accept the offer?](partner.student.help/job-profiles-section/offer-acceptance-deadline-has-passed.-how-can-i-accept-the-offer.md)
 * [My Profile Section](partner.student.help/my-profile-section/README.md)
   * [Where is the My Profile section?](partner.student.help/my-profile-section/where-is-the-my-profile-section.md)
   * [Profile](partner.student.help/my-profile-section/profile.md)
@@ -50,7 +51,9 @@
   * [How to use the events section?](partner.student.help/events-section/how-to-use-the-events-section.md)
 * [Interviews Section](partner.student.help/interviews-section/README.md)
   * [Where is the Interviews Section?](partner.student.help/interviews-section/where-is-the-interviews-section.md)
-  * [How to use the Interviews section?](partner.student.help/interviews-section/how-to-use-the-interviews-section.md)
+  * [My interview was not scheduled](partner.student.help/interviews-section/how-to-use-the-interviews-section.md)
+  * [When will I get my interview results?](partner.student.help/interviews-section/when-will-i-get-my-interview-results.md)
+  * [My interview ended abruptly](partner.student.help/interviews-section/my-interview-ended-abruptly.md)
 * [More \(Assessments\) Section](partner.student.help/more-section/README.md)
   * [Where is the More \(Assessments\) section?](partner.student.help/more-section/where-is-the-assessments.md)
   * [My test was not scheduled](partner.student.help/more-section/my-test-was-not-scheduled.md)
@@ -91,9 +94,11 @@
   * [Why am I not eligible for a job? - Job Eligibility Criteria](i-am-using-superset-to-apply-for-a-job/job-profiles-section/why-am-i-not-eligible-for-a-job-job-eligibility-criteria.md)
   * [Tracking the Status of the Job Application](i-am-using-superset-to-apply-for-a-job/job-profiles-section/tracking-the-status-of-the-job-application.md)
   * [Accepting an Offer from a company](i-am-using-superset-to-apply-for-a-job/job-profiles-section/accepting-an-offer-from-a-company.md)
+  * [Offer acceptance deadline has passed. How can I accept the offer?](i-am-using-superset-to-apply-for-a-job/job-profiles-section/offer-acceptance-deadline-has-passed.-how-can-i-accept-the-offer.md)
 * [My Profile Section](i-am-using-superset-to-apply-for-a-job/my-profile-section/README.md)
   * [Where is the My Profile section?](i-am-using-superset-to-apply-for-a-job/my-profile-section/where-is-the-my-profile-section.md)
   * [Profile](i-am-using-superset-to-apply-for-a-job/my-profile-section/profile.md)
+  * [Generate Resume](i-am-using-superset-to-apply-for-a-job/my-profile-section/generate-resume.md)
   * [Profile Verification and Profile Completion Percentage](i-am-using-superset-to-apply-for-a-job/my-profile-section/profile-completion-percentage.md)
   * [About](i-am-using-superset-to-apply-for-a-job/my-profile-section/about.md)
   * [Education](i-am-using-superset-to-apply-for-a-job/my-profile-section/education.md)
@@ -106,10 +111,12 @@
   * [Resume, Documents and Social Accounts](i-am-using-superset-to-apply-for-a-job/my-profile-section/section-1.md)
 * [Events Section](i-am-using-superset-to-apply-for-a-job/events-section/README.md)
   * [Where is the Events Section?](i-am-using-superset-to-apply-for-a-job/events-section/where-is-the-events-section.md)
-  * [How to use the events section?](i-am-using-superset-to-apply-for-a-job/events-section/how-to-use-the-events-section.md)
+  * [Why is the events section empty?](i-am-using-superset-to-apply-for-a-job/events-section/how-to-use-the-events-section.md)
 * [Interviews Section](i-am-using-superset-to-apply-for-a-job/interviews-section/README.md)
   * [Where is the Interviews Section?](i-am-using-superset-to-apply-for-a-job/interviews-section/where-is-the-interviews-section.md)
-  * [How to use the Interviews section?](i-am-using-superset-to-apply-for-a-job/interviews-section/how-to-use-the-interviews-section.md)
+  * [My interview was not scheduled](i-am-using-superset-to-apply-for-a-job/interviews-section/how-to-use-the-interviews-section.md)
+  * [When will I get my interview results?](i-am-using-superset-to-apply-for-a-job/interviews-section/when-will-i-get-my-interview-results.md)
+  * [My interview ended abruptly](i-am-using-superset-to-apply-for-a-job/interviews-section/my-interview-ended-abruptly.md)
 * [More \(Assessments\) Section](i-am-using-superset-to-apply-for-a-job/more-section/README.md)
   * [Where is the More \(Assessments\) section?](i-am-using-superset-to-apply-for-a-job/more-section/where-is-the-more-assessments-section.md)
   * [My test was not scheduled](i-am-using-superset-to-apply-for-a-job/more-section/my-test-was-not-scheduled.md)
@@ -119,19 +126,6 @@
   * [Where is the account sections?](i-am-using-superset-to-apply-for-a-job/account-section/where-is-the-account-sections.md)
   * [Changing email id, mobile number and password](i-am-using-superset-to-apply-for-a-job/account-section/changing-email-mobile-number-password.md)
   * [How to login to Superset?](i-am-using-superset-to-apply-for-a-job/account-section/how-to-login-to-superset.md)
-
-## Job Applications
-
-* [Making a job application](job-applications/job-profiles.md)
-
-## Job Offers
-
-* [How to upload offer letter](job-offers/how-to-upload-offer-letter.md)
-
-## Resume and Resume Builder
-
-* [Resume Builder](resume-and-resume-builder/resume-builder.md)
-* [Modifications in Resume](resume-and-resume-builder/modifications-in-resume.md)
 
 ## Video Portfolios
 
@@ -146,26 +140,6 @@
 
 ## Student Help
 
-* [Registration / Sign Up](student-help/registration-sign-up/README.md)
-  * [OTP is wrong/ OTP not received](student-help/registration-sign-up/otp-is-wrong-otp-not-received.md)
-  * [College not exists](student-help/registration-sign-up/cannot-find-college-name.md)
-  * [Email ID entered already exists](student-help/registration-sign-up/email-id-already-exists.md)
-  * [Roll Number entered already exists](student-help/registration-sign-up/roll-number-exists.md)
-* [Login / Sign In](student-help/sign-in-login-and-account-issues/README.md)
-  * [Forgot my password](student-help/sign-in-login-and-account-issues/forgot-superset-account-password.md)
-* [Superset Account](student-help/account-issues/README.md)
-  * [How to change my email address?](student-help/account-issues/how-to-change-my-email-address.md)
-  * [How to change my password?](student-help/account-issues/change-my-superset-password.md)
-* [My superset Profile](student-help/student-profile-my-profile-issues/README.md)
-  * [Untitled](student-help/student-profile-my-profile-issues/untitled.md)
-  * [How to change my Name?](student-help/student-profile-my-profile-issues/change-my-name-in-superset.md)
-  * [How to verify my profile?](student-help/student-profile-my-profile-issues/how-to-get-my-profile-verified.md)
-  * [Profile completion less than 100%](student-help/student-profile-my-profile-issues/how-to-complete-my-profile.md)
-  * [How change Branch/ Course/ Department?](student-help/student-profile-my-profile-issues/change-branch-course-department.md)
-  * [How to change 10th/12th percentage, GPA?](student-help/student-profile-my-profile-issues/change-10th-12th-percentage-gpa.md)
-  * [Can't edit placement details](student-help/student-profile-my-profile-issues/cant-edit-placement-details.md)
-  * [I don’t have documents to upload](student-help/student-profile-my-profile-issues/i-dont-have-documents-to-upload.md)
-  * [Facing problems with Resume Builder](student-help/student-profile-my-profile-issues/facing-problems-with-resume-builder.md)
 * [Job Profile or Job Application](student-help/job-application-issues/README.md)
   * [How to apply for a Job Profile?](student-help/job-application-issues/how-to-apply-for-job-profiles.md)
   * [When will I get my job result?](student-help/job-application-issues/when-will-i-get-my-results.md)
