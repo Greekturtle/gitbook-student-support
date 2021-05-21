@@ -14,7 +14,7 @@
 
 ![](../../.gitbook/assets/image%20%28216%29.png)
 
-
+* By clicking - 'Still cannot find your college?' you will asked to submit a request to add your college name. It takes about 24 hours to add a new college name. 
 
  
 
