@@ -19,7 +19,7 @@
 * **You** _**may be**_ **asked to fill an** **Acceptance Form** **after clicking on the 'Accept' button. If there is no acceptance form then you should directly see a screen like the one in the last screenshot.**
 * If you are asked to fill an acceptance form. It will be similar to the one shown below. 
 
-![Acceptance Form](../../.gitbook/assets/image%20%28252%29.png)
+![Acceptance Form](../../.gitbook/assets/image%20%28253%29.png)
 
 ![](../../.gitbook/assets/last-page-offer-acceptance.png)
 
