@@ -7,7 +7,7 @@ Once you have logged into your Superset account, you can access the 'MY PROFILE'
 
 ![](../../.gitbook/assets/image%20%28198%29.png)
 
-* After entering the MY PROFILE section, you can access the various sections under MY PROFILE b y using the menu bar on the left.
+* After entering the MY PROFILE section, you can access the various sections under MY PROFILE by using the menu bar on the left.
 
 ![](../../.gitbook/assets/image%20%28207%29.png)
 

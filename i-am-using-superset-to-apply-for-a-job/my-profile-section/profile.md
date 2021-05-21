@@ -7,7 +7,7 @@
 
 ![](../../.gitbook/assets/image%20%28176%29.png)
 
-* After entering the MY PROFILE section, you can access the various sections under MY PROFILE b y using the menu bar on the left. You can ignore the '**Your profile has been submitted for verification**' tag.
+* After entering the MY PROFILE section, you can access the various sections under MY PROFILE by using the menu bar on the left. You can ignore the '**Your profile has been submitted for verification**' tag.
 
 ![](../../.gitbook/assets/image%20%28207%29.png)
 
