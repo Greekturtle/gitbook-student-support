@@ -10,11 +10,11 @@
 
 ![](../../.gitbook/assets/image%20%2861%29%20%281%29.png)
 
-* If you still cannot find your college, click on the this link - 'Still cannot find your college?' or click on the contact support button below.
+* If you still cannot find your college, click on the this link - 'Still cannot find your college?'.
 
 ![](../../.gitbook/assets/image%20%28216%29.png)
 
-
+* By clicking - 'Still cannot find your college?' you will asked to submit a request to add your college name. It takes about 24 hours to add a new college name. 
 
  
 
