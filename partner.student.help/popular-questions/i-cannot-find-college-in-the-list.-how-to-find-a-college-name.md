@@ -1,4 +1,4 @@
-# I cannot find college in the list. How to find a college name?
+# I cannot find my college in the list. How to find a college name?
 
 * Try searching your college name using the **full name of the college**, for example - IIT Kharagpur can be searched as - **Indian Institute of Technology Kharagpur**
 
