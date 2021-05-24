@@ -14,7 +14,7 @@
 
 ![](../../.gitbook/assets/image%20%28216%29.png)
 
-* By clicking - 'Still cannot find your college?' you will be asked to submit a request to add your college name. **Please tick - 'I can't find my college in the list'. Under 'Type your college name' provide your college's name and in the ticket description please provide your college Pincode.** It takes about 24 hours to add a new college name. 
+* By clicking - _'Still cannot find your college?'_  or by clicking _'Contact Support'_ below, you will be asked to submit a request to add your college name. **Please tick - 'I can't find my college in the list'. Under 'Type your college name' provide your college's name and in the ticket description please provide your college Pincode.** It takes about 24 hours to add a new college name. 
 
 ![](../../.gitbook/assets/image%20%28256%29.png)
 
