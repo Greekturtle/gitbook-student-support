@@ -6,7 +6,9 @@ The Internship and Work Experience covers details of your internships and previo
 
 ![](../../.gitbook/assets/image%20%28222%29.png)
 
-* On clicking '+ Add Experience' you should see a prompt like the one shown below. Fill in the details like Company Name \(where you had your internship/Work Experience\), Job Title and other details. The information regarding your monthly salary/stipend will not be shared with anyone without your prior consent.
+* On clicking '+ Add Experience' you should see a prompt like the one shown below. 
+* Fill in the details like Company Name \(where you had your internship/Work Experience\). **Type the name of the company, wait for a second or two,** you might be shown suggestion of company name, then select the company name. If no suggestion is shown, proceed to to fill the other details.
+* Fill in all the other details - Job Title, location etc.. The information regarding your monthly salary/stipend will not be shared with anyone without your prior consent.
 
 ![](../../.gitbook/assets/image%20%28225%29.png)
 
