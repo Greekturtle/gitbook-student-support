@@ -136,8 +136,8 @@
 * [Accessing Job Profiles](video-portfolios/accessing-job-profiles.md)
 * [Troubleshooting Device Permissions](video-portfolios/troubleshooting-device-permissions.md)
 
----
+## OTHER HELP DOCUMENTS
 
-* [Live attendance for events and job profiles](live-attendance-for-events-and-job-profiles.md)
-* [FAQ's about your Superset Account](faqs.md)
+* [Untitled](other-help-documents/untitled.md)
+* [Live attendance for events and job profiles](other-help-documents/live-attendance-for-events-and-job-profiles.md)
 
