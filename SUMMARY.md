@@ -85,6 +85,7 @@
   * [Current/Most Recent Education](i-am-using-superset-to-apply-for-a-job/registration-sign-up-process/current-most-recent-education.md)
   * [Previous Education](i-am-using-superset-to-apply-for-a-job/registration-sign-up-process/previous-education.md)
   * [Internships and Work Experience](i-am-using-superset-to-apply-for-a-job/registration-sign-up-process/internships-and-work-experience.md)
+  * [Profile Photo & Documents](i-am-using-superset-to-apply-for-a-job/registration-sign-up-process/profile-photo-and-documents.md)
   * [Final Step \(All done!\)](i-am-using-superset-to-apply-for-a-job/registration-sign-up-process/final-step-all-done.md)
   * [Steps After Registration](i-am-using-superset-to-apply-for-a-job/registration-sign-up-process/steps-after-registration.md)
 * [Home Section / Home Feed](i-am-using-superset-to-apply-for-a-job/home-section/README.md)
