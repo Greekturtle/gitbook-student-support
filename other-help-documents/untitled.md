@@ -6,7 +6,7 @@ Your Profile photo is visible to the companies where you have applied for a job.
 
 **1. Take a headshot** 
 
-For your Superset Profile Photo, it is therefore important that the **face occupies most of the space.** Don’t choose a picture taken far away on a mountain top! Show the employers your professional potential with a cracking smile!
+For your Superset Profile Photo, it is therefore important that the ****face occupies most of the space. Don’t choose a picture taken far away on a mountain top! Show the employers your professional potential with a cracking smile!
 
 **2. Pick an up-to-date photo**
 
