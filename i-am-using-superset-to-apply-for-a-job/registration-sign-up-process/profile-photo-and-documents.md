@@ -1,6 +1,6 @@
 # Profile Photo & Documents
 
-Under the Profile Photo & Documents section, you can upload a professional looking photo for your Superset Profile. You may also be asked to upload some documents in this section.
+Under the Profile Photo & Documents section, you can upload a professional looking photo for your Superset Profile. _You may be asked_ to upload some documents in this section.
 
 * For the profile picture, click on '+ Click to upload profile picture' as shown below. Upload a photo from your device.
 
