@@ -18,7 +18,7 @@ Try to avoid blurry images that do not have the right pixel size. Use a high qua
 
 **4. Take the photo in a professional attire**
 
-We all have great photos that were taken when we were wearing a T-shirt, a nice top or a cool hoodie. But for a professional hiring platform like ours, we recommend you take your photo while wearing a shirt and/or a suit.
+We all have great photos that were taken when we were wearing a T-shirt, a nice top or a cool hoodie. But for a professional hiring platform like ours, we recommend you take your photo while wearing a formal shirt and/or a suit.
 
 ### The DON'Ts for Profile Photo -
 
