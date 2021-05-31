@@ -140,6 +140,6 @@
 
 ## OTHER HELP DOCUMENTS
 
-* [Superset Profile Photo Guidelines](other-help-documents/untitled.md)
+* [Superset Profile Photo Guidelines](other-help-documents/porfile-photo-guidelines.md)
 * [Live attendance for events and job profiles](other-help-documents/live-attendance-for-events-and-job-profiles.md)
 
