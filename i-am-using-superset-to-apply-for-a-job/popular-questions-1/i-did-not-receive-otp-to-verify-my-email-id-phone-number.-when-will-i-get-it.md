@@ -6,6 +6,7 @@ During rush hours, OTP might takes upto 10 minutes to be delivered. Please be pa
 
 * Please check that the email id submitted by you is correct.
 * Please check your email inbox for the OTP. 
+* Check other folders like spam, updates etc.
 * Please try refreshing the email tab to check for new emails. 
 * If you cannot find it in your OTP in the inbox, please try searching it in spam folder.
 
