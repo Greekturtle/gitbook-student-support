@@ -14,7 +14,7 @@
 
 ![](../../.gitbook/assets/image%20%28216%29.png)
 
-* By clicking - _'Still cannot find your college?'_  or by clicking _'Contact Support'_ below, you will be asked to submit a request to add your college name. Please **tick - 'I can't find my college in the list'**. Under **'Subject'**, please type **'Cannot find my college in the list'**. please Under '**Type your college name**' provide **your college's full name** and in the **'Describe your issue'** please provide your **college PINCODE and Address**. We will get back to you once we have added the college name to our list. 
+* By clicking - _'Still cannot find your college?'_  or by clicking _'Contact Support'_  below, you will be asked to submit a request to add your college name. Please **tick - 'I can't find my college in the list'**. Under **'Subject'**, please type **'Cannot find my college in the list'**. please Under '**Type your college name**' provide **your college's full name** and in the **'Describe your issue'** please provide your **college PINCODE and Address**. We will get back to you once we have added the college name to our list. 
 
 ![](../../.gitbook/assets/image%20%28266%29.png)
 
