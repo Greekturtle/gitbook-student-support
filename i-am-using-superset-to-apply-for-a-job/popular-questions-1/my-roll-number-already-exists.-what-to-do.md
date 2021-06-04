@@ -7,5 +7,10 @@
 * Batch
 * Current Semester
 
-If the error still does not go away, then please get in touch with us by clicking 'Contact Support' below.
+If the error still does not go away, this is because your might have previously applied for a job from Capgemini or other companies, hence **you already have a Superset account.** 
+
+* Please go to - [https://app.joinsuperset.com/](https://app.joinsuperset.com/)
+* Enter your Superset account email ID.
+* Enter your password.
+* If you do not remember your password, click on Forgot Password.
 
