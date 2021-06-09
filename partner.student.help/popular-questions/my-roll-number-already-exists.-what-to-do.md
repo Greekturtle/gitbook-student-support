@@ -7,7 +7,7 @@
 * Batch
 * Current Semester
 
-If the error still does not go away, this is because your might have previously applied for a job using Superset, hence **you already have a Superset account.** 
+If the error still does not go away, this is because you might have previously applied for a job using Superset, hence **you already have a Superset account.** 
 
 * Please go to - [https://app.joinsuperset.com/](https://app.joinsuperset.com/)
 * Enter your Superset account email ID.
