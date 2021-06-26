@@ -14,6 +14,7 @@
   * [I am facing issues while uploading a file. What should I do?](partner.student.help/popular-questions/i-am-facing-issues-while-uploading-a-file.-what-should-i-do.md)
   * [I cannot find my college in the list. How to find a college name?](partner.student.help/popular-questions/i-cannot-find-college-in-the-list.-how-to-find-a-college-name.md)
   * [I did not complete registration process. Why is it asking me to sign in?](partner.student.help/popular-questions/i-did-not-complete-sign-up-process.-why-is-it-asking-me-to-sign-in.md)
+  * [How to do Payment through Superset?](partner.student.help/popular-questions/how-to-do-payment-through-superset.md)
 * [Registration/Sign Up Process](partner.student.help/registration-sign-up-process/README.md)
   * [How to register on Superset?](partner.student.help/registration-sign-up-process/where-can-i-register-on-superset.md)
   * [Basic Details](partner.student.help/registration-sign-up-process/basic-details.md)
