@@ -72,6 +72,7 @@
 ## I am using Superset to apply for a job
 
 * [Popular Questions](i-am-using-superset-to-apply-for-a-job/popular-questions-1/README.md)
+  * [My GenC Next Test Link is not working](i-am-using-superset-to-apply-for-a-job/popular-questions-1/my-genc-next-test-link-is-not-working.md)
   * [I forgot my password. What to do?](i-am-using-superset-to-apply-for-a-job/popular-questions-1/i-forgot-my-password-forgot-my-email-id.-what-to-do.md)
   * [I did not receive OTP to verify my email ID/phone number. When will I get it?](i-am-using-superset-to-apply-for-a-job/popular-questions-1/i-did-not-receive-otp-to-verify-my-email-id-phone-number.-when-will-i-get-it.md)
   * [I cannot find my college in the list. How to find a college name?](i-am-using-superset-to-apply-for-a-job/popular-questions-1/i-cannot-find-college-in-the-list.-how-to-add-a-new-college-name.md)
