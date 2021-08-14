@@ -5,6 +5,7 @@
 ## My college uses Superset for Placements <a id="partner.student.help"></a>
 
 * [Popular Questions](partner.student.help/popular-questions/README.md)
+  * [My GenC Next Test Link is not working](partner.student.help/popular-questions/my-genc-next-test-link-is-not-working.md)
   * [I did not receive OTP to verify my email ID/phone number. When will I get it?](partner.student.help/popular-questions/i-did-not-receive-otp-to-verify-my-email-id-phone-number.-when-will-i-get-it.md)
   * [I forgot my password. What to do?](partner.student.help/popular-questions/i-forgot-my-password-forgot-my-email-id.-what-to-do.md)
   * [My Roll Number already exists. What to do? \('Roll Number Already Exists' error\)](partner.student.help/popular-questions/my-roll-number-already-exists.-what-to-do.md)
