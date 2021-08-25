@@ -5,6 +5,7 @@
 ## My college uses Superset for Placements <a id="partner.student.help"></a>
 
 * [Popular Questions](partner.student.help/popular-questions/README.md)
+  * [I'm getting an error while applying for the job profile by Wipro.](partner.student.help/popular-questions/im-getting-an-error-while-applying-for-the-job-profile-by-wipro..md)
   * [My GenC Next Test Link is not working](partner.student.help/popular-questions/my-genc-next-test-link-is-not-working.md)
   * [I did not receive OTP to verify my email ID/phone number. When will I get it?](partner.student.help/popular-questions/i-did-not-receive-otp-to-verify-my-email-id-phone-number.-when-will-i-get-it.md)
   * [I forgot my password. What to do?](partner.student.help/popular-questions/i-forgot-my-password-forgot-my-email-id.-what-to-do.md)
