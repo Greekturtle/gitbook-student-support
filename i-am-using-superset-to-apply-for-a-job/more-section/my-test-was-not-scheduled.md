@@ -1,4 +1,4 @@
-# My test was not scheduled
+# I did not receive link for assessments.
 
 Scheduling of assessments is done by the company whose job profile you have applied for. Your test will be scheduled as per the day and time decided by the hiring company. Assessment will be scheduled only if you have applied for the Job. Go to the Job Profiles page to see if you have applied for that job.
 
