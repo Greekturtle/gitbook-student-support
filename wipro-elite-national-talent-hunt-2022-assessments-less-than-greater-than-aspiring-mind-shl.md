@@ -1,7 +1,5 @@
 # Wipro - Elite National Talent Hunt 2022 assessments &lt;-&gt; Aspiring Mind/SHL
 
-
-
 1. **Candidate is unable to login \(autologin not working\) Please note that the autologin with only remain active in the given date and time validity. Make sure you are trying to login within the given time frame only.** 
 2. **I am getting the error “access denied”. Make sure you take care of the following:**
    1. **You are using ‘web browser’ only to take the online assessment. The test is not supported on mobile devices.**
