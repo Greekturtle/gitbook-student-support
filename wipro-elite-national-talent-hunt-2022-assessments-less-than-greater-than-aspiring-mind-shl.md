@@ -12,12 +12,9 @@
 8. Can we provide the test report copy to the candidates, in case they request for it?No, the report is a confidential document and should not be shared with the candidates. Only pass or fail status should be conveyed to the candidates. 
 9. I am getting error “webcam not found”. Please check whether the access to webcam is provided on your browser if you were not prompted for the same please go to your browser settings 🡪 site setting 🡪allow webcam.
 
-Please check the following link to ensure your webcam is working fine - [https://amcatglobal.aspiringminds.com/?go=cameraTesting](https://amcatglobal.aspiringminds.com/?go=cameraTesting)  
+Please check the following link to ensure your webcam is working fine - [https://amcatglobal.aspiringminds.com/?go=cameraTesting](https://amcatglobal.aspiringminds.com/?go=cameraTesting)
 
-
-Some important things to take care of: 1. When you start the test for the first time you will be asked to allow the assessment application to access your web camera. Please don't worry, this is completely harmless. You will also be asked to choose the model of your web camera from a dropdown menu. Please select the model and click on Allow button.  
-  
-
+Some important things to take care of: 1. When you start the test for the first time you will be asked to allow the assessment application to access your web camera. Please don't worry, this is completely harmless. You will also be asked to choose the model of your web camera from a dropdown menu. Please select the model and click on Allow button.
 
 ![Graphical user interface, website  Description automatically generated](https://lh4.googleusercontent.com/wwJmkDpZl7GTTamWcIbLm9a5oUE3V9BIb1TKGOahmDbMAnmP6pohIgFS12G2nLRf3ed2iRMcUzi3EuY3I4w97c1JsRZ5VOJE5bszbiO6uUaw3JkfJQiGi7R6rAzEK-nxI4aBhRxGGcWfgkEk4Q=s0)
 
