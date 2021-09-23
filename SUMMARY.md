@@ -70,6 +70,11 @@
   * [Changing email id, mobile number and password](partner.student.help/account-section/changing-email-id-phone-number-and-password.md)
   * [How to login to Superset?](partner.student.help/account-section/how-to-login-to-superset.md)
 
+---
+
+* [Wipro - Elite National Talent Hunt 2022 assessments &lt;-&gt; Aspiring Mind/SHL](wipro-elite-national-talent-hunt-2022-assessments-less-than-greater-than-aspiring-mind-shl/README.md)
+  * [Wipro - Elite National Talent Hunt 2022 assessments &lt;-&gt; Aspiring Mind/SHL](wipro-elite-national-talent-hunt-2022-assessments-less-than-greater-than-aspiring-mind-shl/wipro-elite-national-talent-hunt-2022-assessments-less-than-greater-than-aspiring-mind-shl.md)
+
 ## I am using Superset to apply for a job
 
 * [Popular Questions](i-am-using-superset-to-apply-for-a-job/popular-questions-1/README.md)
