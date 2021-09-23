@@ -72,8 +72,7 @@
 
 ---
 
-* [Wipro - Elite National Talent Hunt 2022 assessments &lt;-&gt; Aspiring Mind/SHL](wipro-elite-national-talent-hunt-2022-assessments-less-than-greater-than-aspiring-mind-shl/README.md)
-  * [Wipro - Elite National Talent Hunt 2022 assessments &lt;-&gt; Aspiring Mind/SHL](wipro-elite-national-talent-hunt-2022-assessments-less-than-greater-than-aspiring-mind-shl/wipro-elite-national-talent-hunt-2022-assessments-less-than-greater-than-aspiring-mind-shl.md)
+* [Wipro - Elite National Talent Hunt 2022 assessments &lt;-&gt; Aspiring Mind/SHL](wipro-elite-national-talent-hunt-2022-assessments-less-than-greater-than-aspiring-mind-shl.md)
 
 ## I am using Superset to apply for a job
 
