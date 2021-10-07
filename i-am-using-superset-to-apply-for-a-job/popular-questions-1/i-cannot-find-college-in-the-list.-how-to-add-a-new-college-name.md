@@ -8,7 +8,15 @@
 
 ![](../../.gitbook/assets/image%20%28173%29.png)
 
-![](../../.gitbook/assets/image%20%2861%29%20%281%29.png)
+Go to google and search for your college name. And you will see the PINCODE for your college as shown below -
+
+![](../../.gitbook/assets/image%20%28271%29.png)
+
+Enter the PINCODE as shown below and then try searching for you college as shown below -
+
+![](../../.gitbook/assets/image%20%28270%29.png)
+
+![](../../.gitbook/assets/image%20%28272%29.png)
 
 * If you still cannot find your college, click on the this link - 'Still cannot find your college?' or click on the contact support button below.
 
