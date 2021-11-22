@@ -8,9 +8,9 @@
 
 **Click on a job profile name to view its details as follows :-**
 
-### Opening Overview 
+### Opening Overview&#x20;
 
-It consists of the category in which the job profile falls into as per the placement policy \(as defined by placement team\), job function and the CTC that is being offered for this particular profile.
+It consists of the category in which the job profile falls into as per the placement policy (as defined by placement team), job function and the CTC that is being offered for this particular profile.
 
 ![](../.gitbook/assets/jp-2.png)
 
@@ -30,11 +30,11 @@ This section lists the skills required for the job profile
 
 ### Hiring Workflow
 
-The stages for this particular job profile along with the venue, date and time of that particular stage \(if mentioned while posting the job\)
+The stages for this particular job profile along with the venue, date and time of that particular stage (if mentioned while posting the job)
 
 ![Hiring Workflow](../.gitbook/assets/jp-4.png)
 
-#### 
+####
 
 ### Attached Documents
 
@@ -42,11 +42,10 @@ If any document/ presentation is attached with the job profile when posted by th
 
 ### Eligibility Criteria Evaluation Result
 
-Here you will see whether you are eligible or not eligible to apply for the job profile on the basis of the placement policy and the eligibility criteria that are mentioned while posting the job. 
+Here you will see whether you are eligible or not eligible to apply for the job profile on the basis of the placement policy and the eligibility criteria that are mentioned while posting the job.&#x20;
 
-If you see that you are **not eligible,** you may check which criteria you do not satisfy.
+If you see that you are **not eligible, **you may check which criteria you do not satisfy.
 
 ![](../.gitbook/assets/jp-5.png)
 
-### 
-
+###

@@ -2,21 +2,21 @@
 
 * [Superset Student Help](README.md)
 
-## My college uses Superset for Placements <a id="partner.student.help"></a>
+## My college uses Superset for Placements <a href="partner.student.help" id="partner.student.help"></a>
 
 * [Popular Questions](partner.student.help/popular-questions/README.md)
   * [I'm getting an error while applying for the job profile by Wipro.](partner.student.help/popular-questions/im-getting-an-error-while-applying-for-the-job-profile-by-wipro..md)
+  * [I want to change my backlog details. How to do it?](partner.student.help/popular-questions/i-want-to-change-my-backlog-details.-how-to-do-it.md)
   * [My GenC Next Test Link is not working](partner.student.help/popular-questions/my-genc-next-test-link-is-not-working.md)
   * [I did not receive OTP to verify my email ID/phone number. When will I get it?](partner.student.help/popular-questions/i-did-not-receive-otp-to-verify-my-email-id-phone-number.-when-will-i-get-it.md)
   * [I forgot my password. What to do?](partner.student.help/popular-questions/i-forgot-my-password-forgot-my-email-id.-what-to-do.md)
-  * [My Roll Number already exists. What to do? \('Roll Number Already Exists' error\)](partner.student.help/popular-questions/my-roll-number-already-exists.-what-to-do.md)
+  * [My Roll Number already exists. What to do? ('Roll Number Already Exists' error)](partner.student.help/popular-questions/my-roll-number-already-exists.-what-to-do.md)
   * [My College is ineligible. What to do now?](partner.student.help/popular-questions/during-registration-it-says-roll-number-already-exists.-what-to-do.md)
   * [When will I get my interview / test results?](partner.student.help/popular-questions/when-will-i-get-my-interview-test-results.md)
   * [I cannot edit my college name / roll number / Email ID after registration. How to change it?](partner.student.help/popular-questions/i-cannot-edit-my-college-name-roll-number-sign-in-email-id.-how-to-change-it.md)
   * [I am facing issues while uploading a file. What should I do?](partner.student.help/popular-questions/i-am-facing-issues-while-uploading-a-file.-what-should-i-do.md)
   * [I cannot find my college in the list. How to find a college name?](partner.student.help/popular-questions/i-cannot-find-college-in-the-list.-how-to-find-a-college-name.md)
   * [I did not complete registration process. Why is it asking me to sign in?](partner.student.help/popular-questions/i-did-not-complete-sign-up-process.-why-is-it-asking-me-to-sign-in.md)
-  * [How to do Payment through Superset?](partner.student.help/popular-questions/how-to-do-payment-through-superset.md)
 * [Registration/Sign Up Process](partner.student.help/registration-sign-up-process/README.md)
   * [How to register on Superset?](partner.student.help/registration-sign-up-process/where-can-i-register-on-superset.md)
   * [Basic Details](partner.student.help/registration-sign-up-process/basic-details.md)
@@ -60,8 +60,8 @@
   * [My interview was not scheduled](partner.student.help/interviews-section/how-to-use-the-interviews-section.md)
   * [When will I get my interview results?](partner.student.help/interviews-section/when-will-i-get-my-interview-results.md)
   * [My interview ended abruptly](partner.student.help/interviews-section/my-interview-ended-abruptly.md)
-* [Assessments \(More\) Section](partner.student.help/more-section/README.md)
-  * [Where is the More \(Assessments\) section?](partner.student.help/more-section/where-is-the-assessments.md)
+* [Assessments (More) Section](partner.student.help/more-section/README.md)
+  * [Where is the More (Assessments) section?](partner.student.help/more-section/where-is-the-assessments.md)
   * [I did not receive link for assessments.](partner.student.help/more-section/my-test-was-not-scheduled.md)
   * [When will I get my test results?](partner.student.help/more-section/when-will-i-get-my-test-results.md)
   * [Test link not working / My test ended abruptly](partner.student.help/more-section/test-link-not-working-my-test-ended-abruptly.md)
@@ -70,9 +70,9 @@
   * [Changing email id, mobile number and password](partner.student.help/account-section/changing-email-id-phone-number-and-password.md)
   * [How to login to Superset?](partner.student.help/account-section/how-to-login-to-superset.md)
 
----
+***
 
-* [Wipro - Elite National Talent Hunt 2022 assessments &lt;-&gt; Aspiring Mind/SHL](wipro-elite-national-talent-hunt-2022-assessments-less-than-greater-than-aspiring-mind-shl.md)
+* [Wipro - Elite National Talent Hunt 2022 assessments <-> Aspiring Mind/SHL](wipro-elite-national-talent-hunt-2022-assessments-less-than-greater-than-aspiring-mind-shl.md)
 
 ## I am using Superset to apply for a job
 
@@ -89,7 +89,7 @@
   * [When will I get my interview / test results?](i-am-using-superset-to-apply-for-a-job/popular-questions-1/when-will-i-get-my-interview-test-results.md)
   * [Why am I not eligible for the job?](i-am-using-superset-to-apply-for-a-job/popular-questions-1/why-am-i-not-eligible-for-the-job.md)
   * [When will I receive my LOI?](i-am-using-superset-to-apply-for-a-job/popular-questions-1/when-will-i-receive-my-loi.md)
-* [How to apply to a job? \(Job Application Process\)](i-am-using-superset-to-apply-for-a-job/registration-sign-up-process/README.md)
+* [How to apply to a job? (Job Application Process)](i-am-using-superset-to-apply-for-a-job/registration-sign-up-process/README.md)
   * [Starting your job application](i-am-using-superset-to-apply-for-a-job/registration-sign-up-process/where-can-i-register-on-superset.md)
   * [Basic Information](i-am-using-superset-to-apply-for-a-job/registration-sign-up-process/basic-information.md)
   * [Contact Details](i-am-using-superset-to-apply-for-a-job/registration-sign-up-process/contact-details.md)
@@ -97,7 +97,7 @@
   * [Previous Education](i-am-using-superset-to-apply-for-a-job/registration-sign-up-process/previous-education.md)
   * [Internships and Work Experience](i-am-using-superset-to-apply-for-a-job/registration-sign-up-process/internships-and-work-experience.md)
   * [Profile Photo & Documents](i-am-using-superset-to-apply-for-a-job/registration-sign-up-process/profile-photo-and-documents.md)
-  * [Final Step \(All done!\)](i-am-using-superset-to-apply-for-a-job/registration-sign-up-process/final-step-all-done.md)
+  * [Final Step (All done!)](i-am-using-superset-to-apply-for-a-job/registration-sign-up-process/final-step-all-done.md)
   * [Steps After Registration](i-am-using-superset-to-apply-for-a-job/registration-sign-up-process/steps-after-registration.md)
 * [Home Section / Home Feed](i-am-using-superset-to-apply-for-a-job/home-section/README.md)
   * [Where is the Home section?](i-am-using-superset-to-apply-for-a-job/home-section/where-is-the-home-section.md)
@@ -132,8 +132,8 @@
   * [My interview was not scheduled](i-am-using-superset-to-apply-for-a-job/interviews-section/how-to-use-the-interviews-section.md)
   * [When will I get my interview results?](i-am-using-superset-to-apply-for-a-job/interviews-section/when-will-i-get-my-interview-results.md)
   * [My interview ended abruptly](i-am-using-superset-to-apply-for-a-job/interviews-section/my-interview-ended-abruptly.md)
-* [Assessments \(More\) Section](i-am-using-superset-to-apply-for-a-job/more-section/README.md)
-  * [Where is the More \(Assessments\) section?](i-am-using-superset-to-apply-for-a-job/more-section/where-is-the-more-assessments-section.md)
+* [Assessments (More) Section](i-am-using-superset-to-apply-for-a-job/more-section/README.md)
+  * [Where is the More (Assessments) section?](i-am-using-superset-to-apply-for-a-job/more-section/where-is-the-more-assessments-section.md)
   * [I did not receive link for assessments.](i-am-using-superset-to-apply-for-a-job/more-section/my-test-was-not-scheduled.md)
   * [When will I get my test results?](i-am-using-superset-to-apply-for-a-job/more-section/when-will-i-get-my-test-results.md)
   * [Test link not working / My test ended abruptly](i-am-using-superset-to-apply-for-a-job/more-section/test-link-not-working-my-test-ended-abruptly.md)
@@ -152,4 +152,3 @@
 
 * [Superset Profile Photo Guidelines](other-help-documents/porfile-photo-guidelines.md)
 * [Live attendance for events and job profiles](other-help-documents/live-attendance-for-events-and-job-profiles.md)
-
