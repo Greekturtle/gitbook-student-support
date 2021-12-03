@@ -2,7 +2,7 @@
 
 * [Superset Student Help](README.md)
 
-## My college uses Superset for Placements <a href="partner.student.help" id="partner.student.help"></a>
+## My college uses Superset for Placements <a href="#partner.student.help" id="partner.student.help"></a>
 
 * [Popular Questions](partner.student.help/popular-questions/README.md)
   * [I'm getting an error while applying for the job profile by Wipro.](partner.student.help/popular-questions/im-getting-an-error-while-applying-for-the-job-profile-by-wipro..md)
@@ -88,6 +88,7 @@
   * [When will I get my interview / test results?](i-am-using-superset-to-apply-for-a-job/popular-questions-1/when-will-i-get-my-interview-test-results.md)
   * [Why am I not eligible for the job?](i-am-using-superset-to-apply-for-a-job/popular-questions-1/why-am-i-not-eligible-for-the-job.md)
   * [When will I receive my LOI?](i-am-using-superset-to-apply-for-a-job/popular-questions-1/when-will-i-receive-my-loi.md)
+  * [I want to change my personal/academic details. How to do it?](i-am-using-superset-to-apply-for-a-job/popular-questions-1/i-want-to-change-my-personal-academic-details.-how-to-do-it.md)
   * [I want to change my backlog details. How to do it?](i-am-using-superset-to-apply-for-a-job/popular-questions-1/i-want-to-change-my-backlog-details.-how-to-do-it.md)
 * [How to apply to a job? (Job Application Process)](i-am-using-superset-to-apply-for-a-job/registration-sign-up-process/README.md)
   * [Starting your job application](i-am-using-superset-to-apply-for-a-job/registration-sign-up-process/where-can-i-register-on-superset.md)
