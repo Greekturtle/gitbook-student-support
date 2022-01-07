@@ -1,4 +1,7 @@
 # When will I get my interview results?
 
-Companies usually take some time to evaluate the results of the interviews. Please be patient, you will receive your interview results soon. Please be patient and the company will send you the results. If you still think that there has been an issue, then please click on Contact Support below.
+Superset only provides a technology platform to employers to conduct the recruitment process virtually and has no control over the announcement of results. &#x20;
 
+Employers usually take up to three weeks to evaluate the results of the interviews.
+
+In case you think there is an issue, please contact the companies' HR or fresher hiring email address to get a resolution.&#x20;
