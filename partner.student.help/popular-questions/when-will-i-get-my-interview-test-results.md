@@ -1,4 +1,7 @@
 # When will I get my interview / test results?
 
-Companies usually take a some time to evaluate the results of the test and interviews. Please be patient, you will receive your test or interview results soon. If you still think that there has been an issue, then please click on Contact Support below. Please mention the date of your interview/test if you are trying to contact us by clicking Contact Support.
+Superset only provides a technology platform to employers to conduct the recruitment process virtually and has no control over the announcement of results.
 
+Employers usually take up to three weeks to evaluate the results of the interviews and assessment tests.&#x20;
+
+In case you think there is an issue, please contact the companies' HR or fresher hiring email address to get a resolution.
