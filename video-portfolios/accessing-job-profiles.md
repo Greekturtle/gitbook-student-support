@@ -44,7 +44,7 @@ If any document/ presentation is attached with the job profile when posted by th
 
 Here you will see whether you are eligible or not eligible to apply for the job profile on the basis of the placement policy and the eligibility criteria that are mentioned while posting the job.&#x20;
 
-If you see that you are **not eligible, **you may check which criteria you do not satisfy.
+If you see that you are **not eligible,** you may check which criteria you do not satisfy.
 
 ![](../.gitbook/assets/jp-5.png)
 

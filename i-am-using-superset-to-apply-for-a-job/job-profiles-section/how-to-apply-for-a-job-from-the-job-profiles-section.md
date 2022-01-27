@@ -10,7 +10,7 @@ To apply for a job follow these steps:
 
 ![](<../../.gitbook/assets/image (209).png>)
 
-* **If you are eligible for the job, **then you should see the 'Apply for this job' button on the top right hand side. If you are not eligible for the job, then you will see - 'You are not eligible for this job profile' in the same place. (If you are ineligible for the job, then you can scroll down to see why you are ineligible)
+* **If you are eligible for the job,** then you should see the 'Apply for this job' button on the top right hand side. If you are not eligible for the job, then you will see - 'You are not eligible for this job profile' in the same place. (If you are ineligible for the job, then you can scroll down to see why you are ineligible)
 
 ![](<../../.gitbook/assets/image (178).png>)
 

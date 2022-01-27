@@ -35,7 +35,7 @@ Google is your best friend. 🤷🏻‍♂️
 ![](<../.gitbook/assets/image (33).png>)
 
 1. Click on the lock icon in the address bar to open the security menu.
-2. Make sure that the **Camera** and **Microphone** permissions are not 'Block'. They should be set to either **'Allow' **or **Ask (default)**
+2. Make sure that the **Camera** and **Microphone** permissions are not 'Block'. They should be set to either **'Allow'** or **Ask (default)**
 
 
 {% endtab %}
@@ -43,7 +43,7 @@ Google is your best friend. 🤷🏻‍♂️
 {% tab title="Safari" %}
 ### Permissions
 
-When asked for permissions to **Camera **and **Microphone**, click on **Allow**
+When asked for permissions to **Camera** and **Microphone**, click on **Allow**
 
 ![Click on Allow](<../.gitbook/assets/image (26).png>)
 

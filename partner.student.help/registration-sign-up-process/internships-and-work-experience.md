@@ -2,7 +2,7 @@
 
 The Internship and Work Experience covers details of your internships and previous company positions and experience (if any).&#x20;
 
-* Click on '**+Add Experience**' on the top right side, to add an Internship or Work Experience. If you do not have any internship or work experience then click on ' _I have not completed any internship and I do not have any prior work experience'  _and then click on 'Save and Next'.
+* Click on '**+Add Experience**' on the top right side, to add an Internship or Work Experience. If you do not have any internship or work experience then click on ' _I have not completed any internship and I do not have any prior work experience'_  and then click on 'Save and Next'.
 
 ![](<../../.gitbook/assets/image (153).png>)
 

@@ -1,36 +1,46 @@
 # I want to change my personal/academic details. How to do it?
 
-If you are using Superset to apply for a job and want to change your personal/academic details on Superset, please click on the Contact Support button below. Please mention the following details in your support request -
+If you are using Superset to apply for a job and want to change your personal/academic details, please refer to the below options:
 
-1.  What details are you trying to changes?
+## Edit my course, backlogs, marks/scores, and pass out batch
 
-    **Personal Details:**&#x20;
+You can now edit the Education Details section of your profile on your own. Your new edits will be visible on your profile as soon as you update it, **Superset or your TPO don't have to "approve" these edits made by you.**\
+**To make the edits log in to your Superset profile on a laptop/tablet browser:**
 
-    Name (First, Middle & Last Name)&#x20;
+1. **Go to the "My Profile" tab**
+2. **Scroll down to the "Education" section**
+3. **Click on the "Edit" icon that appears on the bottom left**
+4. **Make the changes and click on "Save"**
 
-    Gender&#x20;
+![](<../../.gitbook/assets/1 (2).png>)
 
-    DOB&#x20;
+## Edit my phone number, personal email ID, address, and career plans
 
-    Address&#x20;
+You can now edit these personal details on your own. Your new edits will be visible on your profile as soon as you update it, **Superset or your TPO don't have to "approve" these edits made by you.**\
+**To make the edits log in to your Superset profile on a laptop/tablet browser:**
 
-    Phone Number&#x20;
+1. **Go to the "My Profile" tab**
+2. **Scroll down to that respective section**
+3. **Click on the "Edit" icon that appears on the right**&#x20;
+4. **Make the changes and click on "Save"**
 
-    Email ID&#x20;
+![](../../.gitbook/assets/2.png)
 
-    **Academic Details:**&#x20;
+## Edit my name, date of birth, gender, and primary email ID
 
-    Current Course
+To make edits to these personal details please click on the **Contact Support** button below. Please mention the following details clearly in your support request -
 
-    Current Course Percentage&#x20;
+1. **What details are you trying to changes?**
 
-    College&#x20;
+&#x20; 2\. **What should these details be changed to?**
 
-    Year of passing (Passout batch)&#x20;
+Name (First, Middle & Last Name) - Your full name with official supporting documents
 
-    College City&#x20;
+DOB  - Your correct DOB with official supporting documents
 
-    College State
+Gender - Your correct gender
 
+Email ID - Your correct email ID
 
-2. Details about the change
+****
+

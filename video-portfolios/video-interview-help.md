@@ -27,7 +27,7 @@ Once you start your interview, you will see the question on the top and the reco
 ![The timer on the screen will start automatically.](<../.gitbook/assets/image (29).png>)
 
 The countdown to the recording will start automatically. This is the time for your preparation.\
-After each question, **you will get 30 to 120 seconds to prepare **(based on the preparation time configured by the interviewer)
+After each question, **you will get 30 to 120 seconds to prepare** (based on the preparation time configured by the interviewer)
 
 Once the countdown is over, the recording will start automatically.
 

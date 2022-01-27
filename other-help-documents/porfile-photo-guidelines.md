@@ -4,13 +4,13 @@ Your Profile photo is visible to the companies where you have applied for a job.
 
 ### The DOs for Profile Photo -
 
-**1. Take a headshot **
+**1. Take a headshot**&#x20;
 
-For your Superset Profile Photo, it is therefore important that the** **face occupies most of the space. Don’t choose a picture taken far away on a mountain top! Show the employers your professional potential with a cracking smile!
+For your Superset Profile Photo, it is therefore important that the **** face occupies most of the space. Don’t choose a picture taken far away on a mountain top! Show the employers your professional potential with a cracking smile!
 
 **2. Pick an up-to-date photo**
 
-We’ve all seen those photos on social media that were taken decades back and then seen them in person only to find out they look completely different!** **Make sure your photo was taken in the past few years and reflects how you look on a daily basis (glasses, make-up, hair, etc).
+We’ve all seen those photos on social media that were taken decades back and then seen them in person only to find out they look completely different! **** Make sure your photo was taken in the past few years and reflects how you look on a daily basis (glasses, make-up, hair, etc).
 
 **3. Use a high resolution photo**
 

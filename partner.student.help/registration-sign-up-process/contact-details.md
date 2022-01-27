@@ -12,4 +12,4 @@ The Contact Details sections includes the following:
 
 ![](<../../.gitbook/assets/image (147).png>)
 
-* **Additional Details**: You _may be _asked to enter some additional details related to placements. If not, then click on 'Save and Next' if you have filled all the details.
+* **Additional Details**: You _may be_ asked to enter some additional details related to placements. If not, then click on 'Save and Next' if you have filled all the details.

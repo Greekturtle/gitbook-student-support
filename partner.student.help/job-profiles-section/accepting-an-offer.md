@@ -9,9 +9,9 @@
 ### Job Offer Acceptance
 
 * The next step after you have been offered is Accepting the Offer.&#x20;
-* Go to the **Job Profiles **section from your Superset Home page
+* Go to the **Job Profiles** section from your Superset Home page
 * Select the job profile that you have been offered
-* After opening the job profile, you should be able to see the **Accept **button.
+* After opening the job profile, you should be able to see the **Accept** button.
 * **The 'Accept' button will be activated by the company, meaning, even if you see 'Offered' for a job, it might take some time for you to start seeing the 'Accept' button. Please be patient.**
 
 ![](<../../.gitbook/assets/image (38).png>)
@@ -23,7 +23,7 @@
 
 ![](../../.gitbook/assets/last-page-offer-acceptance.png)
 
-* Click on **Accept Offer **button
+* Click on **Accept Offer** button
 * You will see another step asking you to enter your superset account password and click 'Continue'.
 
 ![](../../.gitbook/assets/enter-password-offer-acceptance.png)

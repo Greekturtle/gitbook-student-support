@@ -9,7 +9,7 @@ description: >-
 ## Login to the app
 
 * Login to the Superset app using your email id and password
-* Remember that you **MUST BE ENROLLED **to a placement cycle to login and use the app successfully
+* Remember that you **MUST BE ENROLLED** to a placement cycle to login and use the app successfully
 
 ## Home Page&#x20;
 
@@ -33,5 +33,5 @@ The events tab will show you the list of on going events. This tab will also sho
 
 Click on the event to view more details.&#x20;
 
-To submit attendance, click on the **Scan for attendance **button and ensure your camera is facing towards the QR code displayed in front of you.&#x20;
+To submit attendance, click on the **Scan for attendance** button and ensure your camera is facing towards the QR code displayed in front of you.&#x20;
 

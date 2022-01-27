@@ -10,7 +10,7 @@
 
 ![](<../../.gitbook/assets/image (206).png>)
 
-* Enter your email ID. **If your email ID already exists (meaning you already have a Superset account), you will be asked to enter your password. Click on forgot password if you do not remember your password. **
+* Enter your email ID. **If your email ID already exists (meaning you already have a Superset account), you will be asked to enter your password. Click on forgot password if you do not remember your password.**&#x20;
 
 ![](<../../.gitbook/assets/image (193).png>)
 
