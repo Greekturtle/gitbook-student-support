@@ -5,6 +5,7 @@
 ## My college uses Superset for Placements <a href="#partner.student.help" id="partner.student.help"></a>
 
 * [Popular Questions](partner.student.help/popular-questions/README.md)
+  * ['Entered email is associated with multiple accounts' error. What to do?](partner.student.help/popular-questions/entered-email-is-associated-with-multiple-accounts-error.-what-to-do.md)
   * [I'm getting an error while applying for the job profile by Wipro.](partner.student.help/popular-questions/im-getting-an-error-while-applying-for-the-job-profile-by-wipro..md)
   * [My GenC Next Test Link is not working](partner.student.help/popular-questions/my-genc-next-test-link-is-not-working.md)
   * [I did not receive OTP to verify my email ID/phone number. When will I get it?](partner.student.help/popular-questions/i-did-not-receive-otp-to-verify-my-email-id-phone-number.-when-will-i-get-it.md)
@@ -76,6 +77,8 @@
 ## I am using Superset to apply for a job
 
 * [Popular Questions](i-am-using-superset-to-apply-for-a-job/popular-questions-1/README.md)
+  * ['Entered email is associated with multiple accounts' error. What to do?](i-am-using-superset-to-apply-for-a-job/popular-questions-1/entered-email-is-associated-with-multiple-accounts-error.-what-to-do.md)
+  * [Superset Subscription is a fully utilized error message.](i-am-using-superset-to-apply-for-a-job/popular-questions-1/superset-subscription-is-a-fully-utilized-error-message..md)
   * [I'm getting an error while applying for the job profile by Wipro.](i-am-using-superset-to-apply-for-a-job/popular-questions-1/im-getting-an-error-while-applying-for-the-job-profile-by-wipro..md)
   * [My GenC Next Test Link is not working](i-am-using-superset-to-apply-for-a-job/popular-questions-1/my-genc-next-test-link-is-not-working.md)
   * [I forgot my password. What to do?](i-am-using-superset-to-apply-for-a-job/popular-questions-1/i-forgot-my-password-forgot-my-email-id.-what-to-do.md)
@@ -90,6 +93,7 @@
   * [When will I receive my LOI?](i-am-using-superset-to-apply-for-a-job/popular-questions-1/when-will-i-receive-my-loi.md)
   * [I want to change my personal/academic details. How to do it?](i-am-using-superset-to-apply-for-a-job/popular-questions-1/i-want-to-change-my-personal-academic-details.-how-to-do-it.md)
   * [I want to change my backlog details. How to do it?](i-am-using-superset-to-apply-for-a-job/popular-questions-1/i-want-to-change-my-backlog-details.-how-to-do-it.md)
+  * ['Entered email is associated with multiple accounts' error. What to do?](i-am-using-superset-to-apply-for-a-job/popular-questions-1/entered-email-is-associated-with-multiple-accounts-error.-what-to-do-1.md)
 * [How to apply to a job? (Job Application Process)](i-am-using-superset-to-apply-for-a-job/registration-sign-up-process/README.md)
   * [Starting your job application](i-am-using-superset-to-apply-for-a-job/registration-sign-up-process/where-can-i-register-on-superset.md)
   * [Basic Information](i-am-using-superset-to-apply-for-a-job/registration-sign-up-process/basic-information.md)
